@@ -6,9 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hop Durable
-email: hopdurable@gmail.com
-description: Rénover les espaces verts
+title: HOP!Durable
+email: contact@hopdurable.fr
+description: Start’Up Coopérative de l’aménagement durable
+ambition : Catalyser l’aménagement durable en créant des lieux de références à pédagogie innovante
 baseurl: "" 
 url: "http://hopdurable.fr" # the base hostname & protocol for your site
 

@@ -1,0 +1,89 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+// Base
+@import "base/normalize";
+
+// Configuration
+@import "config/colors";
+@import "config/mediaqueries";
+@import "config/typography";
+
+@import "base/base";
+@import "base/layout";
+
+// Tool
+@import "tool/utilities";
+
+// Generic
+@import "generic/broken-images";
+@import "generic/normalize-opentype";
+@import "generic/print";
+
+// Object
+//@import "object/header";
+//@import "object/pagination";
+//@import "object/posts";
+
+
+body,html {
+  height: 100%;
+}
+
+section {
+  &.center {
+    text-align: center;
+  }
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  padding: 3vw;
+  width: 100%;
+  height: 100%;
+  border-top: 2px solid $color-primary;
+  > :first-child {
+    margin-top: auto;
+  }
+  > :last-child {
+    margin-bottom: auto;
+  }
+  h1 {
+    color: $color-secondary;
+  }
+  img {
+    margin: 0 auto !important;
+    max-width: 30rem;
+    width: 100%;
+  }
+  ul,ol {
+    display: inline-block;
+    text-align: left;
+    max-width: 50rem;
+    //margin: 1rem auto;
+  }
+}
+
+.button {
+  &,&:visited {
+    display: inline-block;
+    margin: auto; 
+    padding: 0.7rem 1rem 0.5rem;
+    max-width: 25rem;
+    width: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #fff;
+    background: $color-secondary;
+    border-radius: 5px;
+  }
+  &:hover {
+    text-decoration: none;
+    background: darken($color-secondary, 10%);
+  }
+}

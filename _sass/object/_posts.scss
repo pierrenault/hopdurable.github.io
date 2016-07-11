@@ -1,0 +1,23 @@
+////
+/// Post
+////
+
+.posts {
+  padding-bottom: $line-height-base;
+  img {
+    margin: 0.5em 0 1.5em;
+  }
+}
+
+.posts-archive {
+  @include list-inline();
+  > li {
+    &:not(:last-child):after {
+      content: ' - ';
+    }
+ }
+}
+
+.post-meta {
+  font-weight: 700;
+}
