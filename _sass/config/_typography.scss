@@ -13,7 +13,7 @@ $base:                    1;
 $base-em:                 $base * 1em;
 $base-px:                 $base * 16px;
 
-$ms0:                     1;
+$ms0:                     2;
 $ms1:                     $ratio;        /* 1.2   */
 $ms2:                     $ratio * $ms1; /* 1.44  */
 $ms3:                     $ratio * $ms2; /* 1.728 */
@@ -37,7 +37,7 @@ body {
   font-family: $base-font-family;
   font-weight: 400;
   font-size: $base-em * $ms0;
-  line-height: $base * $ms2*3;
+  line-height: $base * $ms2;
 }
 
 h3,
