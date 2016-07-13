@@ -10,7 +10,7 @@ $small-font-size:         $base-font-size * 0.875;
 
 $ratio:                   1.20;
 $base:                    1;
-$base-em:                 $base * 1em;
+$base-em:                 $base * 2em;
 $base-px:                 $base * 16px;
 
 $ms0:                     1;
@@ -36,7 +36,7 @@ $base-line:               $line-height-computed;
 body {
   font-family: $base-font-family;
   font-weight: 450;
-  font-size: $base-em * $ms0*3;
+  font-size: $base-em * $ms0;
   line-height: $base * $ms2;
 }
 
