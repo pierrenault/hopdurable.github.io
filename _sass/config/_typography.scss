@@ -9,11 +9,11 @@ $base-font-size:          16px;
 $small-font-size:         $base-font-size * 0.875;
 
 $ratio:                   1.20;
-$base:                    1;
+$base:                    2;
 $base-em:                 $base * 1em;
 $base-px:                 $base * 16px;
 
-$ms0:                     2;
+$ms0:                     1;
 $ms1:                     $ratio;        /* 1.2   */
 $ms2:                     $ratio * $ms1; /* 1.44  */
 $ms3:                     $ratio * $ms2; /* 1.728 */
