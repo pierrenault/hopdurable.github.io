@@ -35,8 +35,8 @@ $base-line:               $line-height-computed;
 
 body {
   font-family: $base-font-family;
-  font-weight: 600;
-  font-size: $base-em * $ms0;
+  font-weight: 450;
+  font-size: $base-em * $ms0*1.5;
   line-height: $base * $ms2;
 }
 
