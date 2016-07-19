@@ -67,6 +67,8 @@ Courriel : **contact@hopdurable.fr**
 
 Nous suivre sur Facebook : **@hopdurable**
 
+<a href="assets/pdf/hop_amenagement_durable_web.pdf" class="button">Accéder à la présentation Hop! </a>
+
 </section>
 
 
