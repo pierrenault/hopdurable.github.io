@@ -66,7 +66,8 @@ Ainsi HOP!Durable réunit des partenaires variés : partenaires **scientifique
 Courriel : **contact@hopdurable.fr**
 
 Nous suivre sur Facebook : **@hopdurable**
-<br>
+
+
 <a href="assets/pdf/hop_amenagement_durable_web.pdf" class="button">La plaquette Hop! </a>
 
 </section>
