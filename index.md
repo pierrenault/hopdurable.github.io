@@ -69,8 +69,7 @@ Nous suivre sur Facebook : **@hopdurable**
 
 
 
-<section class="center">
-
+<p class="center">
 
 <a href="assets/pdf/hop_amenagement_durable_web.pdf" class="button">La plaquette Hop! </a>
 
