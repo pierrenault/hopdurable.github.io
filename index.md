@@ -4,8 +4,8 @@ layout: default
 
 <section class="center">
   <img src="assets/images/logo-hop-durable.png" alt="Logo de Hop durable">
-  <p><strong>{{ site.description }}</strong></p>
-  <p>{{ site.ambition }}</p>
+  <p><strong>Promouvoir une culture de l’aménagement durable</strong></p>
+  <p>Par des lieux de références à pédagogie active</p>
   <br>
   <!-- <a href="" class="button">Télécharger la présentation (PDF)</a> -->
 </section>
@@ -67,7 +67,8 @@ Ainsi HOP!Durable réunit des partenaires variés : partenaires scientifiques,
 <section markdown="1">
 
 # Contacter Hop!
-contact@hopdurable.fr
+Mail : contact@hopdurable.fr
+Facebook : @hopdurable
 
 </section>
 
