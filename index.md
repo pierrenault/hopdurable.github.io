@@ -28,14 +28,6 @@ Du massif fleuri au lieu d’éveil ludique ou à l’espace de détente urba
 
 </section>
 
-<section class="section-schema">
-  <img src="assets/images/schema-processus-hopdurable-environnement.png" alt="Schéma processus Hop!durable">
-</section>
-
-<section class="section-schema">
-  <img src="assets/images/schema-espace-amenage.png" alt="Schéma aménagement">
-</section>
-
 <section markdown="1">
 
 # Une culture de l’aménagement durable à créer
