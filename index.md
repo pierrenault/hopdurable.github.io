@@ -7,7 +7,8 @@ layout: default
   <p><strong>Promouvoir une culture de l’aménagement durable</strong></p>
   <p>Par des lieux de références à pédagogie active</p>
   <br>
-  <!-- <a href="" class="button">Télécharger la présentation (PDF)</a> hopdurable.github.io/assets/pdf/hop_amenagement_durable_web.pdf  -->
+  <!-- <a href="" class="button">Télécharger la présentation (PDF)</a> -->
+  <a href=" hopdurable.github.io/assets/pdf/hop_amenagement_durable_web.pdf ">pdf file</a>
 </section>
 
 
