@@ -8,7 +8,9 @@ layout: default
   <p>Par des lieux de références à pédagogie active</p>
   <br>
   <!-- <a href="" class="button">Télécharger la présentation (PDF)</a> -->
-  <a href=" hopdurable.github.io/assets/pdf/hop_amenagement_durable_web.pdf ">pdf file</a>
+  <pdf src="assets/pdf/hop_amenagement_durable_web.pdf">
+  
+  a href=" hopdurable.github.io ">pdf file</a>
 </section>
 
 
