@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
-  
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
+    {{ content }}
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.panelSnap.js"></script>
+    <script data-rocketsrc="/upup.sw.min.js" data-no-instant type="text/javascript"></script>
+    <script>
+      $('body').panelSnap();
+    </script>
   </body>
-
 </html>
