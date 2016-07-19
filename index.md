@@ -61,7 +61,7 @@ Ainsi HOP!Durable réunit des partenaires variés : partenaires **scientifique
   </section>
 
 <section markdown="1">
-
+<section class="center">
 # Contacter Hop!
 Courriel : **contact@hopdurable.fr**
 
