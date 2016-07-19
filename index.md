@@ -32,10 +32,6 @@ Du massif fleuri au lieu d’éveil ludique ou à l’espace de détente urba
   <img src="assets/images/schema-processus-hopdurable-environnement.png" alt="Schéma processus Hop!durable">
 </section>
 
-<section markdown="1">
-
-</section>
-
 <section class="section-schema">
   <img src="assets/images/schema-espace-amenage.png" alt="Schéma aménagement">
 </section>
@@ -75,8 +71,8 @@ Ainsi HOP!Durable réunit des partenaires variés : partenaires scientifiques,
 <section markdown="1">
 
 # Contacter Hop!
-Mail : contact@hopdurable.fr
-Facebook : @hopdurable
+Courriel : contact@hopdurable.fr
+Nous suivre sur Facebook : @hopdurable
 
 </section>
 
