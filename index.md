@@ -72,6 +72,7 @@ Ainsi HOP!Durable réunit des partenaires variés : partenaires scientifiques,
 
 # Contacter Hop!
 Courriel : contact@hopdurable.fr
+
 Nous suivre sur Facebook : @hopdurable
 
 </section>
