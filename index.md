@@ -28,6 +28,10 @@ Du massif fleuri au lieu d’éveil ludique ou à l’espace de détente urba
 
 </section>
 
+<section class="section-schema">
+  <img src="assets/images/schema-espace-amenage.png" alt="Schéma aménagement">
+</section>
+
 <section markdown="1">
 
 # Promouvoir une culture de l’aménagement durable ?
@@ -36,6 +40,10 @@ L’apport des sciences dans la connaissance du globe et notre dépendance aux 
 
 L'approche opérationnelle d'HOP!Durable, pragmatique, créative & coopérative lève les obstacles du financement pour créer références & outils afin de faire évoluer les regards sur les enjeux actuels de nos territoires & donner à chacun le pouvoir d’agir.
 
+</section>
+
+<section class="section-schema">
+  <img src="assets/images/schema-processus-hopdurable-environnement.png" alt="Schéma processus Hop!durable">
 </section>
 
 <section markdown="1">
