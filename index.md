@@ -40,7 +40,8 @@ Du massif fleuri au lieu d’éveil ludique ou à l’espace de détente urba
 
 # Promouvoir une culture de l’aménagement durable ?
 
-L’apport des sciences dans la connaissance du globe et notre dépendance aux ressources naturelles ne cesse de croître. Aussi notre perception de l’espace, qu’il se transforme ou non physiquement, évolue. Indiscutablement, l’aménagement des territoires s’inscrit aujourd’hui dans un « développement durable », un développement qui réponde aux besoins du présent sans compromettre les capacités des générations futures à répondre aux leurs.
+L’apport des sciences dans la connaissance du globe et notre dépendance aux ressources naturelles ne cesse de croître. Notre perception de l’espace, qu’il se transforme ou non physiquement, évolue. Indiscutablement, l’aménagement des territoires s’inscrit aujourd’hui dans un « développement durable »,<p style="font-weight:bold">
+ un développement qui réponde aux besoins du présent sans compromettre les capacités des générations futures à répondre aux leurs</p>.
 
 L'approche opérationnelle d'HOP!Durable, pragmatique, créative & coopérative lève les obstacles du financement pour créer références & outils afin de faire évoluer les regards sur les enjeux actuels de nos territoires & donner à chacun le pouvoir d’agir.
 </section>
