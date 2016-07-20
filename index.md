@@ -12,7 +12,7 @@ layout: default
 
 
 <section markdown="1">
-<section class="center">
+
 # HOP!Durable : notre offre
 
 ## Créer des espaces durables
