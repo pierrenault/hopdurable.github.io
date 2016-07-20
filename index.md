@@ -30,7 +30,7 @@ Du massif fleuri au lieu d’éveil ludique ou à l’espace de détente urba
 </section>
 
 <section markdown="1">
-
+<section class="center">
 # Une culture de l’aménagement durable à créer
 
 L’apport des sciences dans la connaissance du globe et notre dépendance aux ressources naturelles ne cesse de croître. Notre perception de l’espace, qu’il se transforme ou non physiquement, évolue. Indiscutablement, l’aménagement des territoires s’inscrit aujourd’hui dans un « développement durable», **un développement qui réponde aux besoins du présent sans compromettre les capacités des générations futures à répondre aux leurs.**
