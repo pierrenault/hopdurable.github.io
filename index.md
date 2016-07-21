@@ -54,7 +54,7 @@ Ainsi HOP!Durable réunit des partenaires variés : partenaires **scientifique
 # Que cherchez-vous ?
 
   - Je souhaite **aménager des espaces** durables
-  - Je propose des **produits durables*** : matériaux, mobilier, végétaux, etc.
+  - Je propose des **produits durables** : matériaux, mobilier, végétaux, etc.
   - Je cherche des partenaires R&D sur de l’**expérimentation et/ou valorisation scientifique**
   - Je cherche à développer des actions de **sensibilisation** sur des thématiques environnementales ou culturelles
   - Je souhaite travailler sur la **valorisation métier** des structures d’insertion
