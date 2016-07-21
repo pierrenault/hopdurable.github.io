@@ -4,8 +4,8 @@ layout: default
 
 <section class="center">
   <img src="assets/images/hop_logo_amenagement_durable.svg" alt="Logo de Hop durable">
-   <p><strong>Promouvoir une culture de l’aménagement durable</strong></p>
-  <p>Par des lieux de références à pédagogie active</p>
+###<p><strong>Promouvoir une culture de l’aménagement durable</strong></p>
+### <p>Par des lieux de références à pédagogie active</p>
   <br>
   
   <a href="assets/pdf/hop_amenagement_durable_web.pdf" class="button">Accéder à la présentation Hop! </a>
@@ -18,7 +18,7 @@ layout: default
 
 ## Créer des espaces durables
 
-###  - de haute qualité paysagère
+  - de haute qualité paysagère
   - à pédagogie active
   - aux coûts optimisés
   - par une coopération win/win avec des acteurs locaux et/ou métier
