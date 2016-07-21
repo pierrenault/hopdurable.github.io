@@ -44,7 +44,7 @@ L'approche opérationnelle d'HOP!Durable, **pragmatique, créative & coopérat
 
 La coopération est au coeur de notre approche opérationnelle de l’aménagement durable.
 
-Nous en sommes convaincus : **échanger, partager nos compétences et agir ensemble pour un projet commun est essentiel pour créer une dynamique de territoir efficace et pérenne**.
+Nous en sommes convaincus : **échanger, partager nos compétences et agir ensemble pour un projet commun est essentiel pour créer une dynamique de territoire efficace et pérenne**.
 
 Ainsi HOP!Durable réunit des partenaires variés : partenaires **scientifiques**, **professionnels** (entreprises, artisans, interprofessions), **collectivités**, maîtres d’ouvrage privés, **structures d’Insertion** par l’Activité Economique, bénévoles, artistes, etc.
 </section>
