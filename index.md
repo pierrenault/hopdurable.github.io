@@ -3,8 +3,8 @@ layout: default
 ---
 
 <section class="center">
-  <img src="assets/images/hop_logo_amenagement_durable.svg" alt="Logo de Hop durable">
-  <p><strong>Promouvoir une culture de l’aménagement durable<strong><p>
+  <img src="assets/images/logo-hop-durable.png" alt="Logo de Hop durable">
+  <p><strong>Promouvoir une culture de l’aménagement durable</strong></p>
   <p>Par des lieux de références à pédagogie active</p>
   <br>
   
