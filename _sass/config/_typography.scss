@@ -35,14 +35,14 @@ $base-line:               $line-height-computed;
 
 body {
   font-family: $base-font-family;
-  font-weight: 600;
+  font-weight: 450;
   font-size: $base-em * $ms0;
   line-height: $base * $ms2;
 }
 
 h3,
 h2 { line-height: $base * $ms1; }
-h1 { line-height: $base * $ms0; }
+h1 { line-height: $base * $ms0 *0.6; }
 
 h6, .h6 { font-size: $small; }
 h5, .h5 { font-size: $normal; }
