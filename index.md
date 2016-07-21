@@ -18,7 +18,7 @@ layout: default
 
 ## Créer des espaces durables
 
-  - de haute qualité paysagère
+###  - de haute qualité paysagère
   - à pédagogie active
   - aux coûts optimisés
   - par une coopération win/win avec des acteurs locaux et/ou métier
@@ -46,7 +46,7 @@ La coopération est au coeur de notre approche opérationnelle de l’aménag
 
 Nous en sommes convaincus : **échanger, partager nos compétences et agir ensemble pour un projet commun est essentiel pour créer une dynamique de territoire efficace et pérenne**.
 
-Ainsi HOP!Durable réunit des partenaires variés : partenaires **scientifiques**, **professionnels** (entreprises, artisans, interprofessions), **collectivités**, maîtres d’ouvrage privés, **structures d’Insertion** par l’Activité Economique, bénévoles, artistes, etc.
+Ainsi HOP!Durable réunit des partenaires variés : partenaires **scientifiques**, **professionnels** (entreprises, fournisseurs, artisans, interprofessions), **collectivités**, maîtres d’ouvrage privés, **structures d’Insertion** par l’Activité Economique, bénévoles, artistes, etc.
 </section>
   
 <section markdown="1">
