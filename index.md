@@ -15,6 +15,7 @@ layout: default
 
 <section class="center">
 <IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
+<br>
 
 </section>
 
