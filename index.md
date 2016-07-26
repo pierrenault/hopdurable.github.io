@@ -13,6 +13,12 @@ layout: default
 
 <section markdown="1">
 
+
+<IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
+
+</section>
+
+<section markdown="1">
 # HOP!Durable : notre offre
 
 ## Créer des espaces durables
