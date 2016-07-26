@@ -4,7 +4,7 @@ layout: default
 
 <section class="center">
   <img src="assets/images/0_logo_hop_amenagement_durable_SLOGAN.svg" alt="Logo de Hop durable">
-  <p><capitalize>Promouvoir une culture de l’aménagement durable par des lieux de références à pédagogie active</capitalize></p>
+  <p><uppercase>Promouvoir une culture de l’aménagement durable par des lieux de références à pédagogie active</uppercase></p>
     <br>
   
   <a href="assets/pdf/hop_amenagement_durable_web.pdf" class="button">Accéder à la présentation Hop! </a>
