@@ -13,7 +13,7 @@ layout: default
 
 <section markdown="1">
 
-
+<section class="center">
 <IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
 
 </section>
