@@ -10,13 +10,8 @@ layout: default
   <a href="assets/pdf/hop_amenagement_durable_web.pdf" class="button">Accéder à la présentation Hop! </a>
  </section>
 
-
-<section markdown="1">
-
 <section class="center">
   <IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
-
-</section>
 
 </section>
 
