@@ -14,24 +14,9 @@ layout: default
 <section markdown="1">
 
 <section class="center">
-<IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
-</section>
+  <IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
 
 </section>
-
-<section markdown="1">
-# HOP!Durable : notre offre
-
-## Créer des espaces durables
-
-  - de haute qualité paysagère
-  - à pédagogie active
-  - aux coûts optimisés
-  - par une coopération win/win avec des acteurs locaux et/ou métier
-
-## Pour quels espaces ?
-
-Du massif fleuri au lieu d’éveil ludique ou à l’espace de détente urbaine, tous les espaces nous intéressent.
 
 </section>
 
