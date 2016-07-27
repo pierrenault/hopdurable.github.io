@@ -12,7 +12,7 @@ layout: default
 
 
 <section class="center">
-  <IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
+  <IMG src="assets/images/fond_valeurs.svg" alt="valeurs" width=10%>
 
 </section>
 
