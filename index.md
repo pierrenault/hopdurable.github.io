@@ -29,7 +29,7 @@ L'approche opérationnelle d'Hop!Durable, **pragmatique, créative & coopérat
 
 <section markdown="1">
 
-# Un partenariat public/privé au service du territoire : une coopérative
+# Un partenariat public/privé au service du territoire : la coopérative
 
 La coopération est au coeur de notre approche opérationnelle de l’aménagement durable.
 
