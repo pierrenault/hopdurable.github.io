@@ -56,6 +56,7 @@ Courriel : **contact@hopdurable.fr**
 Nous suivre sur Facebook : **@hopdurable**
 
 <br>
+<br>
 <p class="center">
 
 <a href="assets/pdf/hop-durable_recherche_concepteur.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
