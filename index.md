@@ -29,7 +29,7 @@ L'approche opérationnelle d'Hop!Durable, **pragmatique, créative & coopérat
 
 <section markdown="1">
 
-# Un partenariat public/privé au service du territoire
+# Un partenariat public/privé au service du territoire : une coopérative
 
 La coopération est au coeur de notre approche opérationnelle de l’aménagement durable.
 
@@ -45,7 +45,7 @@ Ainsi Hop!Durable réunit des partenaires variés : partenaires **scientifique
   - Je souhaite **aménager des espaces**
   - Je propose des **produits durables** : matériaux, mobiliers, végétaux, etc.
   - Je cherche des partenaires opérationnels pour **expérimenter et/ou valoriser des travaux** de recherche
-  - Je cherche des partenaires pour de la **sensibilisation** sur des thématiques environnementales ou culturelles
+  - Je cherche à créer des actions de **sensibilisation** sur des thématiques environnementales ou culturelles
   - Je souhaite travailler sur la **valorisation métier** des structures d’insertion
   - Je souhaite **soutenir le développement d'Hop!Durable**
   </section>
