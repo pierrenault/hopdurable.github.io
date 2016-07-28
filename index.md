@@ -29,7 +29,7 @@ L'approche opérationnelle d'Hop!Durable, **pragmatique, créative & coopérat
 
 <section markdown="1">
 
-# Une coopérative : pourquoi ?
+# La coopérative : un partenariat public/privé au service du territoire
 
 La coopération est au coeur de notre approche opérationnelle de l’aménagement durable.
 
