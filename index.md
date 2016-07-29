@@ -7,7 +7,7 @@ layout: default
   <p>Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</p>
     <br>
     
-  [ site web en construction ]
+  <small> [ site web en construction ] </small>
    <br>
    
   
