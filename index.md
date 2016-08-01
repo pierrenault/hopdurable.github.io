@@ -7,7 +7,7 @@ layout: default
   <p>Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</p>
     <br>
     
-  <a href="assets/pdf/hop_amenagement_durable_web2.pdf" class="button">Accéder à la présentation Hop! </a>
+  <a href="assets/pdf/hop_amenagement_durable_web_2.pdf" class="button">Accéder à la présentation Hop! </a>
  
  </section>
 
