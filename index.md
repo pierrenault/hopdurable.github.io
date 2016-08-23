@@ -10,7 +10,7 @@ layout: default
 </section>
 
 <section class="section-schema">
-  <img src="assets/images/fond_valeurs.svg" alt="valeurs de hop durable">
+  <img src="assets/images/hop-durable-valeurs-amenagement-hub-cooperative.svg" alt="valeurs de hop durable">
 </section>
 
 <section markdown="1">
