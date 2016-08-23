@@ -5,15 +5,12 @@ layout: default
 <section class="center">
   <img src="assets/images/0_logo_hop_amenagement_durable_slogan_flex effet.svg" alt="Logo de Hop durable">
   <p>Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</p>
-    <br>
-    
-  <a href="assets/pdf/hop_amenagement_durable_web_3.pdf" class="button">Accéder à la présentation Hop! </a>
- 
- </section>
+  <br>  
+  <a href="assets/pdf/hop_amenagement_durable_web_3.pdf" class="button">Accéder à la présentation Hop!</a>
+</section>
 
-<section class="center">
-  <IMG src="assets/images/fond_valeurs.svg" alt="valeurs">
-
+<section class="section-schema">
+  <img src="assets/images/fond_valeurs.svg" alt="valeurs de hop durable">
 </section>
 
 <section markdown="1">
@@ -46,7 +43,8 @@ Ainsi Hop!Durable réunit des partenaires variés : partenaires **scientifique
   - Je cherche à créer des actions de **sensibilisation** sur des thématiques environnementales ou culturelles
   - Je souhaite travailler sur la **valorisation métier** des structures d’insertion
   - Je souhaite **soutenir le développement d'Hop!Durable**
-  </section>
+
+</section>
 
 <section markdown="1">
 
@@ -55,10 +53,9 @@ Courriel : **contact@hopdurable.fr**
 
 Nous suivre sur Facebook : **@hopdurable**
 
-
 <br>
 <br>
 <p class="center">
-
-<a href="assets/pdf/hop-durable_recherche_concepteur.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
-
+  <a href="assets/pdf/hop-durable_recherche_concepteur.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
+</p>
+</section>
