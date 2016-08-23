@@ -8,8 +8,10 @@ layout: default
   par des lieux de référence à pédagogie active</p>
   
   <br>  
+  <br>
   
   <a href="assets/pdf/hop_amenagement_durable_web_3.pdf" class="button">Accéder à la présentation Hop!</a>
+  
 </section>
 
 <section class="section-schema">
