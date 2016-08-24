@@ -13,7 +13,7 @@ layout: default
 </section>
 
 <section class="section-schema">
-  <img src="assets/images/fond-valeurs2.svg" alt="valeurs de hop durable">
+  <img src="assets/images/fond-valeurs.svg" alt="valeurs de hop durable">
 </section>
 
 <section markdown="1">
