@@ -12,8 +12,9 @@ layout: default
   
 </section>
 
-<p>Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</p>
+
 <section class="section-schema">
+  <p>Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</p>
   <img src="assets/images/fond-valeurs.svg" alt="valeurs de hop durable">
 </section>
 
