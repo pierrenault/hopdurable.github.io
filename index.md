@@ -4,7 +4,7 @@ layout: default
 
 <section class="center">
   <img src="assets/images/0_logo_hop_amenagement_durable_slogan_flex effet.svg" alt="Logo de Hop durable">
-  <p>- Un autre regard sur l'aménagement - </p>
+  <p>- un autre regard sur l'aménagement - </p>
   
   <br>
   
