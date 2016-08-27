@@ -18,7 +18,8 @@ layout: default
   
   <img src="assets/images/fond-valeurs.svg" alt="valeurs de hop durable">
 </section>
-
+ <p>'Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active'</p>
+ 
 <section markdown="1">
 
 # Une culture de l’aménagement durable à créer
