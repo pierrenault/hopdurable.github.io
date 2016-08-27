@@ -4,7 +4,7 @@ layout: default
 
 <section class="center">
   <img src="assets/images/0_logo_hop_amenagement_durable_slogan_flex effet.svg" alt="Logo de Hop durable">
-  <p>- un autre regard sur l'aménagement - </p>
+  <p>'Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active'</p> 
   
   <br>
   
@@ -14,8 +14,7 @@ layout: default
 
 
 <section class="section-schema">
-  <p>'Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active'</p>  
-  --  
+  
   
   <img src="assets/images/fond-valeurs.svg" alt="valeurs de hop durable">
 </section>
