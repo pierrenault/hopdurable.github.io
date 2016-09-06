@@ -12,7 +12,7 @@ layout: default
 </section>
 
 
-<section class="section-schema">
+<section markdown="1">
   
 # Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active  
   <a href="assets/images/fond-valeurs.svg" class="button">Hop!Durable - nos valeurs</a>
