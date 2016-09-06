@@ -12,11 +12,13 @@ layout: default
 </section>
 
 
-<section class="section-schema">
+<section class="section-schema center">
   
-  <p>'Notre ambition : promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active'</p>  
-    __________________________________________________________________________
-  <img src="assets/images/fond-valeurs.svg" alt="valeurs de hop durable">  
+<h4>Notre ambition</h4><p><strong>Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</strong></p>
+<br>
+<p>
+  <a href="assets/images/fond-valeurs.svg" class="button">Nos valeurs</a>
+</p>
     
 </section>
  

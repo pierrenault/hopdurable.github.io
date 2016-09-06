@@ -68,7 +68,7 @@ section {
   }
   &:nth-child(2n) {
     background: #000;
-    h1,p {
+    h1,h2,h3,h4,p {
       color: #fff;
     }
     .button {
