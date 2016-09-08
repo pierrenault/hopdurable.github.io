@@ -69,5 +69,24 @@ Nous suivre sur Facebook : **@hopdurable**
   <a href="assets/pdf/hop-durable_recherche_concepteur.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
 </p>
 
+<!-- Begin MailChimp Signup Form -->
+<link href=»//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css» rel=»stylesheet» type=»text/css»>
+<style type=»text/css»>
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id=»mc_embed_signup»>
+<form action=»//hopdurable.us14.list-manage.com/Hop! je m’inscris/post?u=16d0d1fba4d36823e8001211b&amp;id=7f460ab61a» method=»post» id=»mc-embedded-Hop! je m’inscris-form» name=»mc-embedded-Hop! je m’inscris-form» class=»validate» target=»_blank» novalidate>
+    <div id=»mc_embed_signup_scroll»>
+	<label for=»mce-EMAIL»>On vs écrit : la Hopletter 1/mois - pas de spam </label>
+	<input type=»email» value=»» name=»EMAIL» class=»email» id=»mce-EMAIL» placeholder=»email address» required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style=»position: absolute; left: -5000px;» aria-hidden=»true»><input type=»text» name=»b_16d0d1fba4d36823e8001211b_7f460ab61a» tabindex=»-1» value=»»></div>
+    <div class=»clear»><input type=»submit» value=»Hop! je m’inscris» name=»Hop! je m’inscris» id=»mc-embedded-Hop! je m’inscris» class=»button»></div>
+    </div>
+</form>
+</div>
 
+<!--End mc_embed_signup-->
 </section>
