@@ -68,7 +68,10 @@ Nous suivre sur Facebook : **@hopdurable**
 <p class="center">
   <a href="assets/pdf/hop-durable_recherche_concepteur.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
 </p>
-
+  
+    
+  
+  
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
