@@ -68,4 +68,6 @@ Nous suivre sur Facebook : **@hopdurable**
 <p class="center">
   <a href="assets/pdf/hop-durable_recherche_concepteur.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
 </p>
+
+http://controlfd.com/2016/05/16/add-a-mailchimp-subscriber-form-to-your-jekyll-blog.html
 </section>
