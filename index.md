@@ -83,10 +83,10 @@ Nous suivre sur Facebook : **@hopdurable**
 <form action="//hopdurable.us14.list-manage.com/subscribe/post?u=16d0d1fba4d36823e8001211b&amp;id=7f460ab61a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<label for="mce-EMAIL">Hop!Durable : l'essentiel - 1 fois par mois - pas de Spam</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="ton@courriel.com" required>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_16d0d1fba4d36823e8001211b_7f460ab61a" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="& Hop! je suis inscris." name="Subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
