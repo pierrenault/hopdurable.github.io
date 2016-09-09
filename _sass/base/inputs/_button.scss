@@ -1,0 +1,30 @@
+@mixin sassy-button {
+  box-sizing: border-box;
+
+  cursor: pointer;
+
+  padding: $base-line/2 $base-line*2;
+  margin-bottom: $base-line;
+  font-family: inherit;
+  border: none;
+  outline: none;
+  text-decoration: none;
+
+  &::-moz-focus-inner {
+    border: 0; /* Removes dotted line in Firefox */
+  }
+
+  &:active {
+    box-shadow: inset 0 2px 0 darken($sassy-accent-color, 10%);
+  }
+
+  &:disabled {
+    color: darken($sassy-disabled-color, 30%);
+    background-color: $sassy-disabled-color;
+    cursor: not-allowed;
+
+    &:hover, &:focus {
+      box-shadow: none;
+    }
+  }
+}

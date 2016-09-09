@@ -1,0 +1,58 @@
+@mixin sassy-radio {
+  position: absolute;
+  left: -1000rem;
+
+  + label {
+    position: relative;
+    cursor: pointer;
+    margin-right: $base-line;
+    padding-left: $base-line*2;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: $base-line;
+      width: $base-line;
+      border-radius: 10px;
+      background-color: $sassy-base-color;
+      font-family: sans-serif;
+    }
+
+    &::after {
+      content: '';
+      transition: background-color 0.3s;
+    }
+  }
+
+  &:checked + label::after {
+    content: '';
+    position: absolute;
+    left: 5px;
+    top: 3px;
+    height: 8px;
+    width: 8px;
+    border-radius: 15px;
+    background-color: $sassy-accent-color;
+    text-align: center;
+  }
+
+  &:focus + label::before {
+    box-shadow: 0 1px 0 darken($sassy-base-color, 30%);
+  }
+
+  &:disabled {
+    + label {
+      cursor: not-allowed;
+
+      &::before {
+        background-color: $sassy-disabled-color;
+      }
+    }
+
+    &:checked + label::after {
+      background-color: darken($sassy-disabled-color, 30%);
+    }
+  }
+}

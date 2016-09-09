@@ -1,0 +1,54 @@
+////
+/// Form
+////
+
+// Form color
+
+$sassy-base-color: $color-primary !default;
+$sassy-accent-color: $color-secondary !default;
+$sassy-disabled-color: #eee !default;
+
+@import "inputs/text";
+@import "inputs/button";
+@import "inputs/radio";
+@import "inputs/checkbox";
+@import "inputs/select";
+
+input[type=text],
+input[type=url],
+input[type=email],
+input[type=password],
+input[type=number] {
+  @include sassy-text;
+}
+
+textarea {
+  @include sassy-textarea;
+}
+
+input[type=search] {
+  @include sassy-search;
+}
+
+input[type=checkbox] {
+  @include sassy-checkbox;
+}
+
+input[type=radio] {
+  @include sassy-radio;
+}
+
+.select-wrap {
+  @include sassy-select;
+}
+
+select[multiple] {
+  @include sassy-select-multiple;
+}
+
+input[type=submit],
+input[type=button],
+button {
+  @include sassy-button;
+  color: white;
+}

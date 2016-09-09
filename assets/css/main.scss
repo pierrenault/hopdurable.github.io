@@ -13,8 +13,10 @@
 @import "config/mediaqueries";
 @import "config/typography";
 
+
 @import "base/base";
 @import "base/layout";
+@import "base/form";
 
 // Tool
 @import "tool/utilities";
@@ -68,7 +70,7 @@ section {
   }
   &:nth-child(2n) {
     background: #000;
-    h1,h2,h3,h4,p {
+    h1,h2,h3,h4,p,label {
       color: #fff;
     }
     .button {

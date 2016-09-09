@@ -1,0 +1,63 @@
+@mixin sassy-checkbox {
+  position: absolute;
+  left: -1000rem;
+
+  + label {
+    position: relative;
+    cursor: pointer;
+    margin-right: $base-line;
+    padding-left: $base-line;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 16px;
+      width: 16px;
+      border-radius: 3px;
+      background-color: $sassy-base-color;
+      font-family: sans-serif;
+    }
+
+    &::after {
+      content: '';
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+  }
+
+  /* Not depending on the user's font here improves consistency. */
+  &:checked + label::after {
+    content: '';
+    position: absolute;
+    display: block;
+    opacity: 1;
+    left: rem(5);
+    top: 0;
+    width:  3px;
+    height: 11px;
+    border: solid $sassy-accent-color;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+    line-height: rem(16);
+  }
+
+  &:focus + label::before {
+    box-shadow: 0 1px 0 darken($sassy-base-color, 30%);
+  }
+
+  &:disabled {
+    + label {
+      cursor: not-allowed;
+
+      &::before {
+        background-color: $sassy-disabled-color;
+      }
+    }
+
+    &:checked + label::after {
+      border-color: darken($sassy-disabled-color, 30%);
+    }
+  }
+}
