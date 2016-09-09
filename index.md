@@ -70,7 +70,7 @@ Nous suivre sur Facebook : **@hopdurable**
 </p>
   
 </section>    
-<section markdown="1">  
+
 <section class="center">
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -86,7 +86,7 @@ Nous suivre sur Facebook : **@hopdurable**
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="ton@courriel.com" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_16d0d1fba4d36823e8001211b_7f460ab61a" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="& Hop! je suis inscris." id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="& Hop! je suis inscris." name="Subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
