@@ -106,13 +106,13 @@ section {
     text-decoration: none;
     font-weight: bold;
     color: #fff;
-    background: $color-secondary;
+    background: #333;
     border-radius: 5px;
     transform: 0.1s ease all;
   }
   &:hover {
     color: #fff;
     text-decoration: none;
-    background: darken($color-secondary, 10%);
+    background: darken(#000, 10%);
   }
 }
