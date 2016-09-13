@@ -71,9 +71,6 @@ Nous suivre sur Facebook : **@hopdurable**
   
 </section>    
 
-<section class="center">
-
-
+<section>
   {% include subscription-newsletter.html %}
-
 </section>
