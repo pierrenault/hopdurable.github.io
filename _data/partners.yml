@@ -1,7 +1,7 @@
-- name: Bouygues
+- name: Imprimerie Notre-Dame
   logo: bouygues.svg
-  website: http://www.ekino.com/
-  motivation: "Ils font des trucs cools"
+  website: http://imprimerienotredame.com/
+  motivation: "ils soutiennent notre démarche"
   type: associate
 - name: Suez
   logo: suez.svg
