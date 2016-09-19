@@ -16,7 +16,7 @@ layout: default
 <section markdown="1">
   
 # Notre ambition
-<strong>Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</strong></p>
+<strong>Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</strong>
 <br>
 <p>
   <a href="assets/images/fond-valeurs.svg" class="button">Nos valeurs</a>
