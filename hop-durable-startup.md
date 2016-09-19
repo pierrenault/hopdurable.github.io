@@ -27,5 +27,5 @@ Sont Membres entreprises les acteurs privés (entreprises, artisans, interprofes
 
 
 ## Mais aussi :  
-un Comité Consultatif, réuni 2 fois par an pour échanger autour de l'aventure et l'accompagner jusqu'à son envol.
+un **Comité Consultatif**, réuni 2 fois par an pour échanger autour de l'aventure et l'accompagner jusqu'à son envol.
 
