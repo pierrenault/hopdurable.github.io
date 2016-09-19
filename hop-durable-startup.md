@@ -7,7 +7,7 @@ published: false
 ## Demain, Hop!Durable c'est :
 
 Une **Société Coopérative d'Intérêt Collectif (SCIC)** qui impulse et porte une dynamique au service de l'aménagement durable du territoire et de ses acteurs à l'échelle du bassin Rhonalpin.  
-Créer un **espace de coopération entre les acteurs locaux et métier de l'aménagement durable** en proposant un nouveau processus de gouvernance : c'est l'ambition inscrite au cœur du projet Hop!Durable. **Gouvernance engagée et attachée à son territoire**, elle rend opérationnelle une ingénierie partenariale pragmatique au service du projet.
+Créer un **espace de coopération entre les acteurs locaux et métier de l'aménagement durable** en développant un **modèle de gouvernance innovant** pour le secteur : c'est l'ambition inscrite au cœur du projet Hop!Durable. **Gouvernance engagée et attachée à son territoire**, elle rend opérationnelle une ingénierie partenariale pragmatique au service du projet.
 
 
 ## Aujourd'hui, c'est :
