@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="center">
-  <img src="assets/images/0_logo_hop_amenagement_durable_slogan_flex effet.svg" alt="Logo de Hop durable">
+  <img src="assets/images/logo-hop-amenagement-durable-flex-effet.svg" alt="Logo de Hop durable">
  
   <br>
   
