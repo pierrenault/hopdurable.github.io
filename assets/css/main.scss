@@ -116,3 +116,27 @@ section {
     background: darken(#000, 10%);
   }
 }
+
+section .bottom {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 50px;
+  font-size: 60%;
+  text-align: center;
+}
+
+section .bottom:after {
+  content: '';
+  display: block;
+  margin: 1em auto 0;
+  width: 20px;
+  height: 20px;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+       -o-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
