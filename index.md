@@ -8,7 +8,9 @@ layout: default
   <br>
   
   <a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>
-  <div class="bottom">
+  <div class="bottom">  
+    
+    
     Allez voir par là pour en apprendre plus
   </div>
 </section>
