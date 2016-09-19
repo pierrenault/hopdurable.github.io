@@ -1,0 +1,15 @@
+- name: Bouygues
+  logo: bouygues.svg
+  website: http://www.ekino.com/
+  motivation: "Ils font des trucs cools"
+  type: associate
+- name: Suez
+  logo: suez.svg
+  website: http://www.suez.com/
+  motivation: "Des grands copain"
+  type: partner
+- name: Suez 2
+  logo: suez.svg
+  website: http://www.suez.com/
+  motivation: "Des grands copain"
+  type: contact
