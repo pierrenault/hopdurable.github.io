@@ -20,7 +20,7 @@ layout: default
  
 <section markdown="1" class="center">
 # Notre ambition
-*Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active*
+**Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active**
 <br>
 <br>
 <p>
