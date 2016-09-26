@@ -3,29 +3,29 @@ layout: default
 ---
 
 <section class="center">
+  <nav class="site-nav">
+    <ul>
+      <li><a href="/hop-durable-startup.html">Start-Up Coopérative ?</a></li>
+    </ul>
+  </nav>
   <img src="assets/images/logo-hop-amenagement-durable-flex-effet.svg" alt="Logo de Hop durable">
- 
   <br>
-  
   <a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>
   <div class="bottom">  
-    
-    
     Allez voir par là pour en apprendre plus
   </div>
 </section>
 
 
  
-<section markdown="1">
-  
+<section markdown="1" class="center">
 # Notre ambition
-<strong>Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active</strong>
+*Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active*
+<br>
 <br>
 <p>
   <a href="assets/images/fond-valeurs.svg" class="button">Nos valeurs</a>
 </p>
-    
 </section>
  
  
@@ -62,7 +62,7 @@ Ainsi Hop!Durable réunit des partenaires variés : partenaires **scientifique
 
 </section>
 
-<section markdown="1">
+<section markdown="1" class="center">
 
 # Contacter Hop!
 Courriel : **contact@hopdurable.fr**

@@ -13,7 +13,6 @@
 @import "config/mediaqueries";
 @import "config/typography";
 
-
 @import "base/base";
 @import "base/layout";
 @import "base/form";
@@ -36,6 +35,18 @@ body,html {
   height: 100%;
 }
 
+.site-nav {
+  width: 100%;
+  text-align: right;
+  ul {
+    list-style-type: none;
+  }
+  a {
+    color: #000;
+    font-weight: bold;
+  }
+}
+
 section {
   &.center {
     text-align: center;
@@ -50,9 +61,6 @@ section {
   border-top: 12px solid $color-primary;
   @media #{$medium-up} {
     padding: 3vw 15vw;
-  }
-  > :first-child {
-    margin-top: auto;
   }
   > :last-child {
     margin-bottom: auto;
