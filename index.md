@@ -80,6 +80,6 @@ Nous suivre sur Facebook : **@hopdurable**
 <section>
   {% include subscription-newsletter.html %}  
     
-    > Je n'arrive pas à m'inscrire ? Fais le nous savoir : contact@hopdurable.fr
+    Je n'arrive pas à m'inscrire ? Fais le nous savoir : contact@hopdurable.fr
   
 </section>
