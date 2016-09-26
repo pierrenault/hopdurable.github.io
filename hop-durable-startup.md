@@ -14,16 +14,16 @@ Gouvernance engagée et attachée à son territoire, elle rend opérationnelle u
 Une **Association de préfiguration** à la gouvernance collégiale inscrite au sein de son Conseil d'Administration :
 
 • **Collège Membres institutions**  
-> Sont Membres institutionnels les personnes morales (collectivités territoriales, structures parapubliques, associations, groupements, etc.) qui apportent leur soutien à l’association et souhaitent prendre part à son évolution. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
+Ce sont les personnes morales (collectivités territoriales, structures parapubliques, associations, groupements, etc.) qui apportent leur soutien à l’association et souhaitent prendre part à son évolution. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
 • **Collège Membres entreprises**  
-> Sont Membres entreprises les acteurs privés (entreprises, artisans, interprofessions, etc.) qui apportent leur soutien à l’association et souhaitent prendre part à son évolution. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration
+Ce sont les acteurs privés (entreprises, artisans, interprofessions, etc.) qui apportent leur soutien à l’association et souhaitent prendre part à son évolution. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration
 
 • **Collège Membres scientifiques**  
-> Sont Membres scientifiques les personnes physiques qui apportent leur soutien à l’association et souhaitent prendre part à son évolution à travers leur expertise scientifique. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
+Ce sont les personnes physiques qui apportent leur soutien à l’association et souhaitent prendre part à son évolution à travers leur expertise scientifique. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
 • **Collège Membres actifs**  
-> Les Membres actifs sont les personnes physiques qui prennent une part active dans le développement et l’évolution du projet. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
+Ce sont les personnes physiques qui prennent une part active dans le développement et l’évolution du projet. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
 ## Mais aussi :  
 un **Comité Consultatif**, réuni 2 fois par an pour échanger autour de l'aventure et l'accompagner jusqu'à son envol.
