@@ -26,5 +26,5 @@ Ce sont les personnes physiques qui apportent leur soutien à l’association et
 Ce sont les personnes physiques qui prennent une part active dans le développement et l’évolution du projet. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
 ## Mais aussi :  
-un **Comité Consultatif**, réuni 2 fois par an pour échanger autour de l'aventure et l'accompagner jusqu'à son envol.
+Un **Comité Consultatif**, réuni 2 fois par an pour échanger autour de l'aventure et l'accompagner jusqu'à son envol.
 

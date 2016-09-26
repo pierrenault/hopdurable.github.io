@@ -35,6 +35,12 @@ body,html {
   height: 100%;
 }
 
+.site-header {
+  .wrapper {
+    padding: 0; 
+  }
+}
+
 .site-nav {
   width: 100%;
   text-align: right;
@@ -136,9 +142,8 @@ section {
 
 section .bottom {
   position: absolute;
-  right: 0;
+  right: 5vw;
   bottom: 0;
-  left: 0;
   padding-bottom: 50px;
   font-size: 60%;
   text-align: center;
