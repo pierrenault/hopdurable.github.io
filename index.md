@@ -10,7 +10,9 @@ layout: default
   </nav>
   <img src="assets/images/logo-hop-amenagement-durable-flex-effet.svg" alt="Logo de Hop durable">
   <br>
-  <a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>
+  <a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>  
+    
+    
   <div class="bottom">  
     
   </div>
