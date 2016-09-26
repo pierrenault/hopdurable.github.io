@@ -12,7 +12,7 @@ layout: default
   <br>
   <a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>
   <div class="bottom">  
-    Allez voir par là pour en apprendre plus
+    
   </div>
 </section>
 
@@ -80,6 +80,6 @@ Nous suivre sur Facebook : **@hopdurable**
 <section>
   {% include subscription-newsletter.html %}  
     
-    Je n'arrive pas à m'inscrire ? Fais le nous savoir : contact@hopdurable.fr
+    Je n'arrive pas à m'inscrire ? contact@hopdurable.fr
   
 </section>
