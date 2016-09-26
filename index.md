@@ -5,7 +5,7 @@ layout: default
 <section class="center">
   <nav class="site-nav">
     <ul>
-      <li><a href="/hop-durable-startup.html">Start-Up Coopérative ?</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Start-Up Coopérative ?</a></li>
     </ul>
   </nav>
   <img src="assets/images/logo-hop-amenagement-durable-flex-effet.svg" alt="Logo de Hop durable">
