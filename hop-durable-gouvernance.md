@@ -14,17 +14,17 @@ Gouvernance engagée et attachée à son territoire, elle rend opérationnelle u
 ## Aujourd'hui, c'est :
 Une **Association de préfiguration** à la gouvernance collégiale inscrite au sein de son Conseil d'Administration :
 
-• **Collège Membres institutions**  
+• **Membres institutionnels**  
 Collectivités territoriales, associations, structures parapubliques, etc. : ils apportent leur soutien à l’association et souhaitent prendre part à son évolution. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
-• **Collège Membres entreprises**  
+• **Membres entreprises**  
 Entreprises, artisans, fédérations, organismes interprofessionnels, etc. : ils apportent leur soutien à l’association et souhaitent prendre part à son évolution. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration
 
-• **Collège Membres scientifiques**  
+• **Membres scientifiques**  
 Ils apportent leur soutien à l’association et souhaitent prendre part à son évolution à travers leur expertise scientifique. Leur participation peut prendre des formes diverses : projets communs, communication, mécénat de compétences, mécénat financier, autre forme de partenariat en lien avec l’objet de l’association. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
-• **Collège Membres actifs**  
-Personnes physiques, ils prennent une part active dans le développement et l’évolution du projet. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
+• **Membres actifs**  
+Ils prennent une part active dans le développement et l’évolution du projet. Ils participent et votent à l’Assemblée générale et sont éligibles au Conseil d’administration.
 
 ## Mais aussi :  
 Un **Comité Consultatif**, réuni 2 fois par an pour échanger autour de l'aventure et l'accompagner jusqu'à son envol.
