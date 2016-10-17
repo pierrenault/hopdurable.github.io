@@ -51,8 +51,8 @@ layout: default
 
 # Notre ambition
 **Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**  
-<br>
-<br>
+
+
 # La solution Hop!Durable : 
 
 **Une offre complète & innovante - Nous :**  
