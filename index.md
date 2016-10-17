@@ -54,6 +54,7 @@ layout: default
 **Une offre complète & innovante**
 <br>
 **Nous :**  
+
 <br>
 **1. Identifions, valorisons** les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables  
 
