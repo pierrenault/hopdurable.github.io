@@ -51,19 +51,29 @@ layout: default
 
 <section markdown="1">
 
-# La coopération au service du territoire
+# La solution Hop!Durable : une offre complète & innovante  
 
-La coopération est au coeur de notre approche opérationnelle de l’aménagement durable.
+**Nous**  
 
-Nous en sommes convaincus : **échanger, partager nos compétences et agir ensemble pour un projet commun est essentiel pour créer une dynamique de territoire efficace et pérenne**.
+• **Identifions, valorisons** les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables
 
-Ainsi Hop!Durable réunit des partenaires variés : partenaires **scientifiques**, **professionnels** (entreprises, fournisseurs, artisans, interprofessions), **collectivités**, maîtres d’ouvrage privés, **structures d’Insertion** par l’Activité Economique, bénévoles, artistes, etc.
+• **Démontrons** au plus près des acteurs par la réalisation de lieux physiques pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation
+
+• **Accompagnons** le transfert des projets de R&D à l’échelle locale, par l’expérimentation et la valorisation des résultats
+
 </section>
   
 <section markdown="1">
 
-# Que cherchez-vous ?
+# Vous êtes :
 
+ <nav class="site-nav">
+    <ul>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Entreprise</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Décideur</a></li>
+    </ul>
+  </nav>
+  
   - Je souhaite **aménager des espaces**
   - Je propose des **produits durables** : matériaux, mobiliers, végétaux, etc.
   - Je cherche des partenaires opérationnels pour **expérimenter et/ou valoriser des travaux** de recherche
