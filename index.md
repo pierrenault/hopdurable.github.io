@@ -26,25 +26,9 @@ layout: default
 • **A la croisée de plusieurs métiers et filières**  
 
 • **Indissociable d'une approche de territoire**
-
-
-</section>
- 
- 
-<section markdown="1">
-
+<br>
 # Notre constat
 **Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**  
-
-**Pourquoi ?**
-
-• Inertie dans l’évolution des pratiques  
-• Sujets complexes, R&D  
-• Multiplicité d’acteurs  
-• Manque d’outils  
-• Manque d’exemples locaux  
-
-
 </section>
 
 <section markdown="1">
