@@ -28,17 +28,28 @@ layout: default
 • **Indissociable d'une approche de territoire**
 <br>
 
-# Notre constat  
-
-**Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**
-
 </section>
 
 <section markdown="1">
 
-# Notre ambition
+# Le constat  
+
+**Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**  
+
+**Pourquoi ?**
+• Sujets complexes, R&D
+• Inertie dans l’évolution des pratiques
+• Multiplicité d’acteurs
+• Manque d’outils
+• Manque d’exemples locaux  
+<br>
+
+# L'ambition
 **Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**  
 
+</section>
+
+<section markdown="1">
 
 # La solution Hop!Durable 
 
@@ -53,30 +64,11 @@ layout: default
   
 <section markdown="1">
 
-# Vous êtes :
-
- <nav class="site-nav">
-    <ul>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Entreprise</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Décideur</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Maître d'oeuvre</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Interprofession</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Acteur de conseil</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Acteur scientifique</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Financeur</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Particulier</a></li>
-    </ul>
-  </nav>
-  
-</section>
-
-<section markdown="1">
-
-**Hop!Durable : Start-Up de Territoire ?  
+Hop!Durable : Start-Up de Territoire ?  
 Nos soutiens  
 En ce moment !  
 Nous contacter : contact@hopdurable.fr  
-Nous suivre sur Facebook : @hopdurable**
+Nous suivre sur Facebook : @hopdurable
 
 {% include subscription-newsletter.html %}  
 
