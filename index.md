@@ -28,11 +28,12 @@ layout: default
  
 <section markdown="1">
 
-# Une culture de l’aménagement durable à créer
+# L'aménagement durable : un enjeu de société
+<img src="assets/images/amenagement-durable-schema.svg"
 
-L’apport des sciences dans la connaissance du globe et notre dépendance aux ressources naturelles ne cesse de croître. Notre perception de l’espace, qu’il se transforme ou non physiquement, évolue. Indiscutablement, l’aménagement des territoires s’inscrit aujourd’hui dans un « développement durable», **un développement qui réponde aux besoins du présent sans compromettre les capacités des générations futures à répondre aux leurs.**
+>A la croisée de plusieurs métiers & filières
+>Indissociable d'une approche de territoire
 
-L'approche opérationnelle d'Hop!Durable, **pragmatique, créative & coopérative** lève les obstacles du financement pour créer références & outils afin de faire évoluer les regards sur les enjeux actuels de nos territoires & donner à chacun le pouvoir d’agir.
 </section>
 
 <section markdown="1">
