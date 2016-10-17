@@ -53,7 +53,7 @@ layout: default
 **Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**  
 
 
-# La solution Hop!Durable : 
+# La solution Hop!Durable 
 
 **Une offre complète & innovante - Nous :**  
 <br>
