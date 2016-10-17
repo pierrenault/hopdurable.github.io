@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -9,6 +10,8 @@ layout: default
     </ul>
   </nav>
   <img src="assets/images/hop_logo_amenagement_durable_nov2.svg" alt="Logo de Hop durable">
+  <br>
+<a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>  
     
     
   <div class="bottom">  
@@ -22,6 +25,11 @@ layout: default
 # Notre ambition
 **Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**
 <br>
+
+</section>
+ 
+ 
+<section markdown="1">
 
 # Une culture de l’aménagement durable à créer
 
