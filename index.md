@@ -22,12 +22,9 @@ layout: default
  
 <section markdown="1" class="center">
 # Notre ambition
-**Promouvoir une culture de l’aménagement durable par des lieux de référence à pédagogie active**
+**Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**
 <br>
-<br>
-<p>
-  <a href="assets/images/fond-valeurs.svg" class="button">Nos valeurs</a>
-</p>
+
 </section>
  
  
@@ -42,7 +39,7 @@ L'approche opérationnelle d'Hop!Durable, **pragmatique, créative & coopérat
 
 <section markdown="1">
 
-# Un partenariat public/privé au service du territoire : la coopérative
+# La coopération au service du territoire
 
 La coopération est au coeur de notre approche opérationnelle de l’aménagement durable.
 
