@@ -22,7 +22,8 @@ layout: default
 # L'aménagement durable : un enjeu de société
 <img src="assets/images/amenagement-durable-schema.svg">
 
-• A LA CROISEE DE PLUSIEURS METIERS & FILIERES •
+• A LA CROISEE DE PLUSIEURS METIERS & FILIERES •  
+
 • INDISSOCIABLE D'UNE APPROCHE DE TERRITOIRE •
 
 
