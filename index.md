@@ -37,13 +37,9 @@ layout: default
 **Pourquoi ?**  
 
 • Sujets complexes, R&D  
-
 • Inertie dans l’évolution des pratiques  
-
 • Multiplicité d’acteurs  
-
 • Manque d’outils  
-
 • Manque d’exemples locaux  
 
 # L'ambition
@@ -55,7 +51,9 @@ layout: default
 
 # La solution Hop!Durable 
 
-**Une offre complète & innovante - Nous :**  
+**Une offre complète & innovante**
+<br>
+**Nous :**  
 <br>
 • **Identifions, valorisons** les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables  
 • **Démontrons** au plus près des acteurs par la réalisation de lieux physiques pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation  
