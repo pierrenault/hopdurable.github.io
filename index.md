@@ -83,7 +83,7 @@ layout: default
   
 </section>
 
-<section markdown="1" class="center">
+<section markdown="1">
 
 **Hop!Durable : Start-Up de Territoire ?  
 Nos soutiens  
