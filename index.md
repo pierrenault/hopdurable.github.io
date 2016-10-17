@@ -27,8 +27,11 @@ layout: default
 
 • **Indissociable d'une approche de territoire**
 <br>
-# Notre constat
-**Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**  
+
+# Notre constat  
+
+**Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**
+
 </section>
 
 <section markdown="1">
