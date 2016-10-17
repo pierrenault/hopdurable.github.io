@@ -20,7 +20,7 @@ layout: default
  
 <section markdown="1" class="center">
 # L'aménagement durable : un enjeu de société
-<img src="assets/images/amenagement-durable-schema.svg">
+<img src="assets/images/amenagement-durable-schema2.svg">
 <br>
 
 • **A la croisée de plusieurs métiers et filières**  
@@ -36,7 +36,8 @@ layout: default
 
 **Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**  
 
-**Pourquoi ?**
+**Pourquoi ?**  
+
 • Sujets complexes, R&D  
 
 • Inertie dans l’évolution des pratiques  
@@ -46,7 +47,6 @@ layout: default
 • Manque d’outils  
 
 • Manque d’exemples locaux  
-<br>
 
 # L'ambition
 **Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**  
