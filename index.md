@@ -51,15 +51,16 @@ layout: default
 
 <section markdown="1">
 
-# La solution Hop!Durable : une offre complète & innovante  
+# La solution Hop!Durable : 
 
-**Nous**  
+**Une offre complète & innovante - Nous : *  
 
-• **Identifions, valorisons** les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables
-
-• **Démontrons** au plus près des acteurs par la réalisation de lieux physiques pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation
-
-• **Accompagnons** le transfert des projets de R&D à l’échelle locale, par l’expérimentation et la valorisation des résultats
+• **Identifions, valorisons** les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables  
+<br>  
+• **Démontrons** au plus près des acteurs par la réalisation de lieux physiques pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation  
+<br>  
+• **Accompagnons** le transfert des projets de R&D à l’échelle locale, par l’expérimentation et la valorisation des résultats  
+<br>
 
 </section>
   
@@ -71,23 +72,23 @@ layout: default
     <ul>
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Entreprise</a></li>
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Décideur</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Maître d'oeuvre</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Interprofession</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Acteur de conseil</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Acteur scientifique</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Financeur</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Particulier</a></li>
     </ul>
   </nav>
   
-  - Je souhaite **aménager des espaces**
-  - Je propose des **produits durables** : matériaux, mobiliers, végétaux, etc.
-  - Je cherche des partenaires opérationnels pour **expérimenter et/ou valoriser des travaux** de recherche
-  - Je cherche à créer des actions de **sensibilisation** sur des thématiques environnementales ou culturelles
-  - Je souhaite travailler sur la **valorisation métier** des structures d’insertion
-  - Je souhaite **soutenir le développement d'Hop!Durable**
-
 </section>
 
 <section markdown="1" class="center">
 
-# Contacter Hop!
-Courriel : **contact@hopdurable.fr**
-
+Hop!Durable : Start-Up de Territoire ?
+Nos soutiens 
+En ce moment !
+Nous contacter : **contact@hopdurable.fr**
 Nous suivre sur Facebook : **@hopdurable**
 
 <br>
