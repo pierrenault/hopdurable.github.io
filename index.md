@@ -21,10 +21,10 @@ layout: default
 <section markdown="1" class="center">
 # L'aménagement durable : un enjeu de société
 <img src="assets/images/amenagement-durable-schema.svg">
-
-• A LA CROISEE DE PLUSIEURS METIERS & FILIERES •  
-
-• INDISSOCIABLE D'UNE APPROCHE DE TERRITOIRE •
+ 
+ 
+• **A la croisée de plusieurs métiers et filières**
+• **Indissociable d'une approche de territoire**
 
 
 </section>
