@@ -19,8 +19,11 @@ layout: default
 
  
 <section markdown="1" class="center">
-# Notre ambition
-**Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**
+# L'aménagement durable : un enjeu de société
+<img src="assets/images/amenagement-durable-schema.svg"
+
+>A la croisée de plusieurs métiers & filières  
+>Indissociable d'une approche de territoire
 <br>
 
 </section>
@@ -28,11 +31,9 @@ layout: default
  
 <section markdown="1">
 
-# L'aménagement durable : un enjeu de société
-<img src="assets/images/amenagement-durable-schema.svg"
+# Notre ambition
+**Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**
 
->A la croisée de plusieurs métiers & filières
->Indissociable d'une approche de territoire
 
 </section>
 
