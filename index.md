@@ -90,7 +90,6 @@ Nous contacter : contact@hopdurable.fr
 Nous suivre sur Facebook : @hopdurable
 
 {% include subscription-newsletter.html %}  
-Je n'arrive pas à m'inscrire ? contact@hopdurable.fr
 
 <p class="center">
   <a href="assets/pdf/hop-durable_recherche_concepteur_2.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
