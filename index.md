@@ -8,7 +8,7 @@ layout: default
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Start-Up de Territoire ?</a></li>
     </ul>
   </nav>
-  <img src="assets/images/logo_hop_amenagement_durable_nov2.svg" alt="Logo de Hop durable">
+  <img src="assets/images/logo_hop_amenagement_durable_nov3.svg" alt="Logo de Hop durable">
   <br>
     
   <div class="bottom">  
