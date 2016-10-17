@@ -22,10 +22,10 @@ layout: default
 # L'aménagement durable : un enjeu de société
 <img src="assets/images/amenagement-durable-schema.svg">
  
- 
+<p class="left">
 • **A la croisée de plusieurs métiers et filières**
 • **Indissociable d'une approche de territoire**
-
+</p>
 
 </section>
  
@@ -85,21 +85,16 @@ layout: default
 
 <section markdown="1" class="center">
 
-Hop!Durable : Start-Up de Territoire ?
-Nos soutiens 
-En ce moment !
-Nous contacter : **contact@hopdurable.fr**
+**Hop!Durable : Start-Up de Territoire ?  
+Nos soutiens  
+En ce moment !  
+Nous contacter : **contact@hopdurable.fr**  
 Nous suivre sur Facebook : **@hopdurable**
 
-<br>
-<br>
 <p class="center">
   <a href="assets/pdf/hop-durable_recherche_concepteur_2.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
 </p>
   
-</section>    
-
-<section>
   {% include subscription-newsletter.html %}  
     
     Je n'arrive pas à m'inscrire ? contact@hopdurable.fr
