@@ -8,7 +8,7 @@ layout: default
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Start-Up Coopérative ?</a></li>
     </ul>
   </nav>
-  <img src="assets/images/logo-hop-amenagement-durable-flex-effet.svg" alt="Logo de Hop durable">
+  <img src="assets/images/hop_logo_amenagement_durable_nov2.svg" alt="Logo de Hop durable">
   <br>
   <a href="assets/pdf/hop_amenagement_durable_web_6.pdf" class="button">Accéder à la présentation Hop!</a>  
     
