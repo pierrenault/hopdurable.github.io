@@ -70,8 +70,8 @@ layout: default
 
  <nav class="site-nav">
     <ul>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Entreprise</a></li>
-      <li><a href="/hop-durable-gouvernance.html" class="button button--action">Décideur</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button">Entreprise</a></li>
+      <li><a href="/hop-durable-gouvernance.html" class="button">Décideur</a></li>
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Maître d'oeuvre</a></li>
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Interprofession</a></li>
       <li><a href="/hop-durable-gouvernance.html" class="button button--action">Acteur de conseil</a></li>
