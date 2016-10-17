@@ -22,10 +22,10 @@ layout: default
 # L'aménagement durable : un enjeu de société
 <img src="assets/images/amenagement-durable-schema.svg">
  
-<p class="left">
+
 • **A la croisée de plusieurs métiers et filières**
 • **Indissociable d'une approche de territoire**
-</p>
+
 
 </section>
  
@@ -53,7 +53,7 @@ layout: default
 
 # La solution Hop!Durable : 
 
-**Une offre complète & innovante - Nous : *  
+**Une offre complète & innovante - Nous :** 
 
 • **Identifions, valorisons** les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables  
 <br>  
