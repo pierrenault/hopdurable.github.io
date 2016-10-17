@@ -23,7 +23,8 @@ layout: default
 <img src="assets/images/amenagement-durable-schema.svg">
  
 
-• **A la croisée de plusieurs métiers et filières**
+• **A la croisée de plusieurs métiers et filières**  
+
 • **Indissociable d'une approche de territoire**
 
 
@@ -43,14 +44,15 @@ layout: default
 • Manque d’outils  
 • Manque d’exemples locaux  
 
-# Notre ambition
-**Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**
-
 
 </section>
 
 <section markdown="1">
 
+# Notre ambition
+**Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**  
+<br>
+<br>
 # La solution Hop!Durable : 
 
 **Une offre complète & innovante - Nous :**  
