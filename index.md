@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -20,6 +19,7 @@ layout: default
 </section>
 
 
+ 
 <section markdown="1" class="center">
 # Notre ambition
 **Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**
