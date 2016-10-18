@@ -68,7 +68,7 @@ layout: default
   
 <section markdown="1">
 
-Hop!Durable : Start-Up de Territoire ?  
+[Hop!Durable : Start-Up de Territoire ?](http://hopdurable.fr/hop-durable-gouvernance.html)
 Nos soutiens  
 En ce moment !  
 Nous contacter : contact@hopdurable.fr  
