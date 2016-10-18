@@ -72,7 +72,7 @@ layout: default
 Nos soutiens  
 En ce moment !  
 Nous contacter : contact@hopdurable.fr  
-Nous suivre sur Facebook : @hopdurable
+Nous suivre sur Facebook : [Hop!](https://www.facebook.com/hopdurable/)  
 
 {% include subscription-newsletter.html %}  
 
