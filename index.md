@@ -10,7 +10,7 @@ layout: default
   </nav>
   <img src="assets/images/logo_hop_amenagement_durable_nov3.svg" alt="Logo de Hop durable">
   <br>
-    
+  <a href="assets/pdf/hop_amenagement_durable_web_7.pdf" class="button">Présentation Hop!</a>  
   <div class="bottom">  
     
   </div>
@@ -52,7 +52,8 @@ layout: default
 # La solution Hop!Durable 
 
 **Une offre complète & innovante**
-<br>
+<br>  
+
 **Nous :**  
 
 <br>
@@ -78,7 +79,6 @@ Nous suivre sur Facebook : @hopdurable
 <p class="center">
   <a href="assets/pdf/hop-durable_recherche_concepteur_2.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
 </p>
-  
 
   
 </section>
