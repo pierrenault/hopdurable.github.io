@@ -15,6 +15,7 @@
 
 @import "base/base";
 @import "base/layout";
+@import "base/font";
 @import "base/form";
 
 // Tool
@@ -36,55 +37,116 @@ body,html {
 }
 
 .site-header {
+  background: mix(white, $color-primary, 95%);
+  // background: linear-gradient(to right, mix(white, $color-primary, 70%) 0%, mix(white, $color-primary, 60%) 25%, mix(white, $color-primary, 55%) 71%, mix(white, $color-primary, 50%) 100%);
+  background: radial-gradient( farthest-side ellipse at top left, mix(white, $color-primary, 35%), mix(black, $color-primary, 10%));
   .wrapper {
-    padding: 0; 
+    padding: 4vw 0 5vw; 
+  }
+  img {
+    width: 100%;
   }
 }
 
+.site-title {
+  @media #{$medium-up} {
+    display: flex;
+    align-items: center;
+  }
+  margin: 2rem 1vw 1rem;
+  @extend h2;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgba(255,255,255,0.8);
+  @media #{$medium-up} {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.site-logo {
+  display: inline-block;
+  margin: -3rem auto $base-line;
+  min-width: 7em; 
+  max-width: 12em; 
+}
+
 .site-nav {
+  padding: $base-line/2 $base-line;
   width: 100%;
   text-align: right;
+  background: #333;
   ul {
     list-style-type: none;
   }
   a {
-    color: #000;
+    color: #fff;
     font-weight: bold;
+    font-size: $small;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
 section {
+  border-top: 25px solid #cecece;
   &.center {
     text-align: center;
+    ul,ol {
+      margin: auto;
+    }
   }
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  overflow: hidden;
-  padding: 3vw;
-  width: 100%;
-  height: 100%;
-  border-top: 12px solid $color-primary;
-  @media #{$medium-up} {
-    padding: 3vw 15vw;
+  .section_content {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+    padding: 2vw 1vw 5vw;
+    width: 100%;
+    max-width: 35em;
   }
+  
   > :last-child {
     margin-bottom: auto;
   }
+  &:first-child {
+    img {
+      margin: 0 auto !important;
+      max-width: 30rem;
+      width: 100%;
+    }
+  }
+  h2 {
+    color: palette(primary,dark);
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.4)
+  }
   img {
-    margin: 0 auto !important;
-    max-width: 30rem;
     width: 100%;
   }
   ul,ol {
     display: inline-block;
     text-align: left;
-    max-width: 50rem;
-    //margin: 1rem auto;
+    //max-width: 50rem;
+    margin: 1rem 0;
+    padding: 0;
+    li {
+      list-style-position: inside;
+      margin: 0;
+      padding: $base-line/2 $base-line;
+      width: 100%;
+      color: #333 !important;
+      font-weight: bold;
+      background: $color-primary;
+      border: 3px solid #fff;
+    }
   }
   &:nth-child(2n) {
-    background: #000;
-    h1,h2,h3,h4,p,label {
+    background: #222;
+    border-color: #444;
+    h1,h2,h3,h4,p,label,ol,ul,li {
       color: #fff;
     }
     .button {
@@ -94,6 +156,13 @@ section {
       }
       &:hover {
         background: darken($color-primary, 10%);
+      }
+    }
+    ul,ol {
+      li {
+        color: #333 !important;
+        border: 3px solid #333;
+        background: #fff;
       }
     }
   }
