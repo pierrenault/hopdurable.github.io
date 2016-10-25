@@ -5,6 +5,7 @@
     src: local('☺'), url('../fonts/NotoSerif-BoldItalic.woff') format('woff'), url('../fonts/NotoSerif-BoldItalic.ttf') format('truetype'), url('../fonts/NotoSerif-BoldItalic.svg') format('svg');
     font-weight: bold;
     font-style: italic;
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'NotoSerif';
@@ -12,6 +13,7 @@
     src: local('☺'), url('../fonts/NotoSerif-Bold.woff') format('woff'), url('../fonts/NotoSerif-Bold.ttf') format('truetype'), url('../fonts/NotoSerif-Bold.svg') format('svg');
     font-weight: bold;
     font-style: normal;
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'NotoSerif';
@@ -19,13 +21,15 @@
     src: local('☺'), url('../fonts/NotoSerif-Italic.woff') format('woff'), url('../fonts/NotoSerif-Italic.ttf') format('truetype'), url('../fonts/NotoSerif-Italic.svg') format('svg');
     font-weight: normal;
     font-style: italic;
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'NotoSerif';
     src: url('../fonts/NotoSerif-Regular.eot');
-    src: local('☺'), url('../fonts/fontsNotoSerif-Regular.woff') format('woff'), url('../fonts/NotoSerif-Regular.ttf') format('truetype'), url('../fonts/NotoSerif-Regular.svg') format('svg');
+    src: local('☺'), url('../fonts/NotoSerif-Regular.woff') format('woff'), url('../fonts/NotoSerif-Regular.ttf') format('truetype'), url('../fonts/NotoSerif-Regular.svg') format('svg');
     font-weight: normal;
     font-style: normal;
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'NotoSans';
@@ -33,6 +37,7 @@
     src: local('☺'), url('../fonts/NotoSans-Regular.woff') format('woff'), url('../fonts/NotoSans-Regular.ttf') format('truetype'), url('../fonts/NotoSans-Regular.svg') format('svg');
     font-weight: normal;
     font-style: normal;
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'NotoSans';
@@ -40,6 +45,7 @@
     src: local('☺'), url('../fonts/NotoSans-Bold.woff') format('woff'), url('../fonts/NotoSans-Bold.ttf') format('truetype'), url('../fonts/NotoSans-Bold.svg') format('svg');
     font-weight: bold;
     font-style: normal;
+    text-rendering: optimizeLegibility;
 }
 
 

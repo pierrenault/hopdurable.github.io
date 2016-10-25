@@ -13,11 +13,6 @@ body {
   box-sizing: inherit;
 }
 
-a {
-  text-decoration: underline;
-  color: $color-primary;
-}
-
 // a[href]:not([class]) {
 //   text-decoration: underline;
 //   color: $color-primary;
@@ -53,9 +48,9 @@ figcaption {
 
 a {
   text-decoration: underline;
-  color: palette(primary);
+  color: palette(primary,dark);
   &:visited {
-    color: palette(primary);
+    color: palette(primary,dark);
   }
   &:hover {
     text-decoration: underline;
