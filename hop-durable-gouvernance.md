@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Start-Up de Territoire ?
+title: Nous sommes
 published: true
 ---
 
@@ -12,5 +12,5 @@ Réunir au sein même de sa gouvernance les acteurs de l'aménagement durable (p
 <br>
 **Un format coopératif pour une dynamique de territoire pérenne**  
 • la coopération plus que la concurrence  
-• une gouvernance démocratique  (1 personnes = 1 voix)  
+• une gouvernance démocratique  (1 personne = 1 voix)  
 • une finalité pour l’intérêt général : l'aménagement durable du territoire  
