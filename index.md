@@ -5,58 +5,25 @@ layout: default
 
 {% include header.html %}
 
-<!-- <section class="center">
-  <div class="section_content">
-    <nav class="site-nav">
-      <ul>
-        <li><a href="/hop-durable-gouvernance.html" class="button button--action">Start-Up de Territoire ?</a></li>
-      </ul>
-    </nav>
-    <a href="assets/pdf/hop_amenagement_durable_web_7.pdf" class="button">Présentation Hop!</a>  
-  </div>
-</section> -->
-
 <section class="center">
-<div class="section_content" markdown="1">
-## L'aménagement durable :<br>un enjeu de société
-<img src="assets/images/amenagement-durable-schema2.svg">
+<div class="section_content section_graph" markdown="1">
+
+## L'aménagement durable<br>un enjeu de société
+ 
+ - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-eco-light" /></svg> Matériaux : énergie et capacité de recyclage
+ - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-foot" /></svg> Empreinte carbone
+ - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-earth-oxygen" /></svg> Qualité de l‘air & îlots de chaleur
+
+<!-- /Second list -->
+ - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-cloud" /></svg> Infiltration naturelle des eaux pluviales
+ - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-hand-earth" /></svg> Ressources du sol biodiversité & pollutions
+ - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-water" /></svg> Biodiversité & entretien limité
+
+<p class="center">
 <br>
 <br>
- - **A la croisée de plusieurs métiers et filières**  
- - **Indissociable d'une approche de territoire**
-</div>
-</section>
-
-<section>
-<div class="section_content" markdown="1">
-## Le constat  
-
-**Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle**  
-
-### Pourquoi ?
-
- 1. Sujets complexes, R&D  
- 2. Inertie dans l’évolution des pratiques  
- 3. Multiplicité d’acteurs  
- 4. Manque d’outils  
- 5. Manque d’exemples locaux 
-
-## L'ambition
-**Promouvoir une culture de l’aménagement durable ancrée sur le territoire, portée par et pour ses acteurs**  
-</div>
-</section>
-
-<section>
-<div class="section_content" markdown="1">
-## La solution Hop!Durable 
-
-### Une offre complète & innovante
-
-**Nous :**
-
- 1. Identifions, valorisons les acteurs engagés à l’échelle locale et **créons** les outils adaptés pour favoriser l’appropriation de solutions durables  
- 2. Démontrons au plus près des acteurs par la réalisation de lieux physiques pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation  
- 3. Le transfert des projets de R&D à l’échelle locale, par l’expérimentation et la valorisation des résultats
+  <a href="concept-hop-durable.html" class="button">Découvrez ce qu‘Hop!durable peut vous apporter</a>
+</p>
 
 </div>
 </section>
@@ -64,17 +31,12 @@ layout: default
 <section>
 <div class="section_content" markdown="1">
 
-## [Hop!Durable : Start-Up de Territoire ?](http://hopdurable.fr/hop-durable-gouvernance.html)
-Nos soutiens  
-En ce moment !  
-Nous contacter : contact@hopdurable.fr  
-Nous suivre sur Facebook : [Hop!](https://www.facebook.com/hopdurable/)  
-
 {% include subscription-newsletter.html %}  
 
-<p class="center">
-  <a href="assets/pdf/hop-durable_recherche_concepteur_2.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
-</p>
 
 </div>  
 </section>
+
+
+
+{% include footer.html %}

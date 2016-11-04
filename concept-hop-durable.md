@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Le concept
+title: Hop!durable
 published: true
 group: navigation
 ---
