@@ -9,16 +9,16 @@ group: navigation
 <section>
 <div class="section_content" markdown="1">
 
-# l'Ambition
-## Promouvoir une culture de l'aménagement durable durable partagée à l’échelle opérationnelle portée par et pour ses acteurs.
+#l'Ambition  
+##Promouvoir une culture de l'aménagement durable durable partagée à l’échelle opérationnelle portée par et pour ses acteurs.  
 
 <section>
 <div class="section_content" markdown="1">
 
-# le Constat
-## Manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle 
-> offre et demande mal identifiées
-## Un enjeu de société transverse à porter collectivement, indissociable d'une approche de territoire
+#le Constat  
+## Manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle  
+> offre et demande mal identifiées  
+## Un enjeu de société transverse à porter collectivement, indissociable d'une approche de territoire  
 
 </div>
 </section>
