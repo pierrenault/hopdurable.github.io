@@ -1,4 +1,5 @@
 ---
+title: Hop!durable Accueil
 layout: default
 ---
 
