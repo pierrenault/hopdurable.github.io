@@ -1,7 +1,7 @@
 ---
-layout: page
 title: A propos
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Pierre Renault

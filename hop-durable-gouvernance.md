@@ -1,7 +1,6 @@
 ---
-layout: main
 title: Nous sommes
-published: true
+layout: main
 ---
 
 # Notre position  
