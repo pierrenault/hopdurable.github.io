@@ -4,7 +4,7 @@
 
 // Form color
 
-$sassy-base-color: palette(primary,dark) !default;
+$sassy-base-color: #000 !default;
 $sassy-accent-color: $color-secondary !default;
 $sassy-disabled-color: #eee !default;
 
@@ -50,5 +50,4 @@ input[type=submit],
 input[type=button],
 button {
   @include sassy-button;
-  color: white;
 }

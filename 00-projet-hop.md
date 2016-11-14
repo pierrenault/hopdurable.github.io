@@ -1,40 +1,31 @@
 ---
-title: Hop!durable Accueil
 layout: default
-title: Hop!durable
+title: Le projet Hop!
+published: true
+group: navigation
 ---
 
-{% include header.html %} 
+{% include header.html %}
 
 <section>
-<div class="wrapper">
-  <div class="site-title">
-    <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
-    <p>Promouvoir une culture de l‘aménagement durable</p>
-  </div>
-</div>
-</section>
-
-<section class="black">
 <div class="section_content" markdown="1">
+# L'Ambition
+
+Promouvoir une culture de l'aménagement durable durable partagée à l’échelle opérationnelle portée par et pour ses acteurs.  
 
 # Le Constat
 
-## Manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
+Manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle  
 
-Une offre et demande mal identifiées.
-Comprendre pourquoi ?
-
- - Manque d’exemples locaux de référence
- - Faible valorisation du «caractère durable» des aménagements
- - Approches innovantes perçues comme complexes (R&amp;D)
- - Multiplicité d’acteurs, de métiers &amp; filières
- - Nécessité de l’approche territoriale peu reconnue
+> offre et demande mal identifiées
 
 </div>
+</section>
+
+<section class="black center">
 <div class="section_content section_graph" markdown="1">
 
-## Un enjeu de société transverse à porter collectivement, indissociable d&#39;une approche de territoire
+# L'aménagement durable<br>un enjeu de société
 
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-eco-light" /></svg> Matériaux : énergie et capacité de recyclage
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-foot" /></svg> Empreinte carbone
@@ -45,11 +36,33 @@ Comprendre pourquoi ?
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-hand-earth" /></svg> Ressources du sol biodiversité & pollutions
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-leaf" /></svg> Biodiversité & entretien limité
 
-<p class="center">
-<br>
-<br>
-  <a href="concept-hop-durable.html" class="button">Découvrez ce qu‘Hop!durable peut vous apporter</a>
-</p>
-
 </div>
+</section>
+
+<section>
+<div class="section_content" markdown="1">
+
+# Comprendre pourquoi ?
+
+ - Manque d’exemples locaux de référence  
+ - Faible valorisation du «caractère durable» des aménagements  
+ - Approches innovantes perçues comme complexes (R&D)  
+ - Multiplicité d’acteurs, de métiers & filières  
+ - Nécessité de l’approche territoriale peu reconnue  
+ 
+</div>
+</section>
+
+<section>
+<div class="section_content" markdown="1">
+
+# La solution Hop! - une offre innovante
+
+##  Révéler la demande et structurer l’offre
+
+ - Démontrons au plus près des acteurs par la réalisation de références à pédagogie active ancrées sur le territoire et participant à son attractivité et sa valorisation  
+ - Structurons une coopération d’acteurs locaux engagés pour l’aménagement durable opérationnel sur le territoire rhonalpin  
+
+"l’exemple n’est pas la meilleure façon de convaincre, c’est la seule."
+</div>  
 </section>

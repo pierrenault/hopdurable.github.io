@@ -66,7 +66,7 @@ body,html {
 .site-footer {
   padding: $base-line/2 0;
   color: #fff;
-  background: #333;
+  background: #111;
   ul {
     list-style-type: none;
     li {
@@ -87,11 +87,12 @@ body,html {
     display: flex;
     align-items: center;
   }
-  margin: 2rem 1vw 1rem;
-  @extend h2;
+  margin: 5rem 1vw 3rem;
   font-weight: bold;
   text-align: center;
   color: #000;
+  font-family: $base-font-family-slogan;
+  font-size: $title2;
   @media #{$medium-up} {
     display: flex;
     align-items: center;
@@ -101,8 +102,8 @@ body,html {
 .site-logo {
   display: inline-block;
   margin: -3rem auto $base-line;
-  min-width: 7em; 
-  max-width: 12em; 
+  min-width: 5em; 
+  max-width: 10em; 
 }
 
 .site-nav {
@@ -113,7 +114,8 @@ body,html {
   }
   padding: 0;
   width: 100%;
-  border-bottom: 20px solid $color-primary;
+  background: #000;
+  border-bottom: 5px solid $color-primary;
   ul {
     display: inline-block;
     @media #{$medium-up} {
@@ -130,27 +132,36 @@ body,html {
     padding: 0;
     color: #000;
     @media #{$medium-up} {
-      border-left: 1px solid #333;
+      border-left: 1px solid #aaa;
     }
   }
   a {
     display: inline-block;
     padding: $base-line/2 $base-line;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     font-size: $big;
     text-decoration: none;
     @media #{$medium-up} {
       font-size: $small;
     }
-    &:hover {
-      color: $color-secondary;
+    &:hover,&:active {
+      color: #000;
+      background: #fff;
     }
   }
 }
 
 section {
-  border-top: 20px solid $color-primary;
+  h1 {
+    font-size: $title1;
+  }
+  h2 {
+    font-size: $bigger;
+  }
+  h3 {
+    font-size: $bigger;
+  }
   &.center {
     text-align: center;
     ul,ol {
@@ -166,7 +177,6 @@ section {
     max-width: 35em;
   }
   .section_graph {
-    max-width: 55em;
     margin: $base-line auto 0 !important;
     ul {
       @media #{$medium-up} {
@@ -206,9 +216,6 @@ section {
       width: 100%;
     }
   }
-  h2 {
-    color: palette(primary,dark);
-  }
   img {
     width: 100%;
   }
@@ -220,7 +227,7 @@ section {
     height: 80px;
     margin-right: $base-line;
     &,g {
-      fill: $color-primary;
+      fill: $color-secondary;
     }
   }
   ol {
@@ -247,23 +254,37 @@ section {
       padding: $base-line 0;
     }
   }
-  &:nth-child(2n) {
-    background: #222;
+  strong {
+    color: palette(secondary);
+  }
+  &.black {
+    background: #111;
     h1,h2,h3,h4,p,label,ol,ul,li {
       color: #fff;
     }
+    strong {
+      color: $color-primary;
+    }
     .button {
       &,&:visited {
-        color: #000;
-        background: $color-primary;
+        color: #fff;
+        background: transparent;
+        border-color: #fff;
       }
       &:hover {
-        background: darken($color-primary, 10%);
+        color: #000;
+        background: #fff;
+        border-color: #000; 
       }
     }
     ol {
       li {
         color: #fff !important;
+      }
+    }
+    .svg-size {
+      &,g {
+        fill: $color-primary;
       }
     }
   }
@@ -291,14 +312,15 @@ section {
     text-decoration: none;
     font-weight: bold;
     color: #fff;
-    background: #333;
+    background: #000;
     border-radius: 5px;
-    transform: 0.1s ease all;
+    border: 3px solid #000; 
+    transform: 0.5s ease all;
   }
   &:hover {
-    color: #fff;
+    color: #000;
     text-decoration: none;
-    background: darken(#000, 10%);
+    background: #fff;
   }
   &--action {
     &,&:visited {
@@ -309,27 +331,4 @@ section {
       background: darken($color-primary, 10%);
     }
   }
-}
-
-section .bottom {
-  position: absolute;
-  right: 5vw;
-  bottom: 0;
-  padding-bottom: 50px;
-  font-size: 60%;
-  text-align: center;
-}
-
-section .bottom:after {
-  content: '';
-  display: block;
-  margin: 1em auto 0;
-  width: 20px;
-  height: 20px;
-  border-right: 1px solid;
-  border-bottom: 1px solid;
-  -webkit-transform: rotate(45deg);
-     -moz-transform: rotate(45deg);
-       -o-transform: rotate(45deg);
-          transform: rotate(45deg);
 }

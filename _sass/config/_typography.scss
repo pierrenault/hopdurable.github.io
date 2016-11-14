@@ -6,6 +6,7 @@
 //-------------------------------------
 $base-font-family:        'NotoSerif',georgia, serif;
 $base-font-family-title:  'NotoSans',Helvetica, Arial, sans-serif;
+$base-font-family-slogan: 'Lobster',Helvetica, Arial, sans-serif;
 
 $ratio:                   1.20;
 $base:                    1;
@@ -26,14 +27,14 @@ $normal:                  $base-em * $ms0;
 $big:                     $base-em * $ms1;
 $bigger:                  $base-em * $ms2;
 $title2:                  $base-em * $ms3;
-$title1:                  $base-em * $ms4;
+$title1:                  $base-em * $ms6;
 
 $line-height-base:        $base * $ms2;
 $line-height-computed:    floor(($base-em * $line-height-base));
 $base-line:               $line-height-computed;
 
 body {
-  font-family: $base-font-family;
+  font-family: $base-font-family-title;
   font-weight: 400;
   font-size: $base-em * $ms0;
   line-height: $base * $ms2;
@@ -92,6 +93,10 @@ h1,h2,h3,h4,h5,h6 {
     font-family: $base-font-family-title;
     text-decoration: none;
   }
+}
+
+h1{
+  font-family: $base-font-family-slogan;
 }
 
 nav {
