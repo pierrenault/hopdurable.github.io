@@ -10,8 +10,8 @@ title: Hop!durable
 <div class="wrapper">
   <div class="site-title">
     <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
-    <p>Notre ambition</p>
-    Promouvoir une culture de l‘aménagement durable
+    <p>Notre ambition : promouvoir une culture de l‘aménagement durable</p>
+    
   </div>
 </div>
 </section>
