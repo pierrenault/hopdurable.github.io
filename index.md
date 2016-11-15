@@ -16,11 +16,14 @@ title: Hop!durable
 </div>
 </section>
 
-<section class="black center">
-<div class="section_content section_graph" markdown="1">
+<section class="black">
+<div class="section_content" markdown="1">
 
-# un enjeu de société
+# Un enjeu de société
 Enjeu transversal, interscalaire et indissociable d'une approche de territoire, l'aménagement durable de nos territoires constitue un enjeu majeur à porter par chaque acteur. La cohérence et l’efficacité de la déclinaison des politiques publiques depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.  
+
+</div>
+<div class="section_content section_graph" markdown="1">
 
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-eco-light" /></svg> Matériaux : énergie et capacité de recyclage
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-foot" /></svg> Empreinte carbone
@@ -37,9 +40,9 @@ Enjeu transversal, interscalaire et indissociable d'une approche de territoire, 
 <section>
 <div class="section_content" markdown="1">
 # Constat
-**Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle.**
+## Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
 
-## Pourquoi ?
+# Pourquoi ?
  - Manque d’exemples locaux de référence  
  - Faible valorisation du «caractère durable» des aménagements  
  - Approches innovantes perçues comme complexes (R&D)  
@@ -54,6 +57,7 @@ Enjeu transversal, interscalaire et indissociable d'une approche de territoire, 
 
 # la solution Hop!  
 ## Une offre complète et innovante  
+<br>
 Nous :  
 
 - **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
