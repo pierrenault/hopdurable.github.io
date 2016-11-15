@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Notre feuille de route
 published: true
 group: navigation
