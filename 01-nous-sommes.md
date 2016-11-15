@@ -3,7 +3,7 @@ title: Nous sommes
 layout: main
 ---
 
-# Une Association de préfiguration  
+# Association de préfiguration  
 
 Structure porteuse du projet, le projet est porté par l’Association Hop!Durable dont la finalité est la promotion et le développement d’une culture de l’aménagement durable à l’échelle du bassin rhonalpin. Elle est organisée selon un Directoire collégial regroupant 4 collèges :
 
