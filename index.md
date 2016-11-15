@@ -13,14 +13,12 @@ title: Hop!durable
     <p></p>
     </div>
 </div>
-#Notre ambition   
+</section>
+<section>
+<div class="section_content" markdown="1">
+#Notre ambition  
 ##promouvoir une culture de l'aménagement durable   
-
-<br> 
-<p class="center">
-<br>
-  <a href="assets/pdf/hop_amenagement_durable_web_7.pdf" class="button">Notre plaquette ?</a>
-</p>
+</div>
 </section>
 
 <section class="black">
