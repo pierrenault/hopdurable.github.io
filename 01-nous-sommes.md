@@ -21,3 +21,10 @@ Nous recherchons une troisième personne. Nous rejoindre ?
 <br>
   <a href="nous-sommes.html" class="button">Notre plaquette ?</a>
 </p>
+
+ <br>
+  <a href="assets/pdf/hop_amenagement_durable_web_7.pdf" class="button">Présentation Hop!</a>  
+  <div class="bottom">  
+    
+  </div>
+</section>
