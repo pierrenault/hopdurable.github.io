@@ -4,6 +4,12 @@ title: Notre feuille de route
 published: true
 group: navigation
 ---
+---
+layout: default
+title: Hop!durable
+---
+
+<div class="section_content" markdown="1">
 
 Hop!Durable impulse et porte une dynamique en faveur de l’aménagement durable à l’échelle du bassin rhonalpin, révélant la demande et accompagnant la structuration de l’offre à l’échelle opérationnelle. Par une approche collaborative et transversale, pragmatique et créative Hop!Durable lève les obstacles du financement pour créer références & outils afin de faire évoluer les regards sur les enjeux actuels de nos territoires et donner à chacun le pouvoir d’aménager durablement.  
 <br>
@@ -22,4 +28,10 @@ class=center
 </p>
 <br>
   <a href="concept-hop-durable.html" class="button">Découvrez ce qu‘Hop!durable peut vous apporter</a>
+  
+
+</div>
+</section>
+
+
 
