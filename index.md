@@ -40,7 +40,7 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
 
 <p class="center">
 <br>
-#Pourquoi ?
+# Pourquoi ?  
 
  - Manque d’exemples locaux de référence  
  - Faible valorisation du «caractère durable» des aménagements  
@@ -55,8 +55,9 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
 <section>
 <div class="section_content" markdown="1">
 
-# Notre solution  
+# La solution Hop!  
 ## Une offre complète et innovante  
+
 - Démontrons au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
 <br>
 - Valorisons un réseau de partenaires locaux en promouvant leur activité, leur savoirfaire et leur engagement vis-à-vis du territoire rhonalpin.  
