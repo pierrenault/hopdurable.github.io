@@ -2,7 +2,7 @@
 title: Nous sommes
 layout: main
 ---
-
+<div class="section_content" markdown="1">
 ## Association de préfiguration  
 
 Hop!Durable est aujourd'hui une association de préfiguration.  
@@ -22,3 +22,4 @@ Nous recherchons une troisième personne.
 
 <br>
   <a href="offre-artisan-designer.html" class="button">Nous rejoindre</a>
+</div>
