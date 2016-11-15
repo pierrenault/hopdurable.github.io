@@ -13,13 +13,9 @@ title: Hop!durable
     <p></p>
     </div>
 </div>
-</section>
 # Notre ambition  
-## promouvoir une culture de l‘aménagement durable  
-<section>
+## promouvoir une culture de l'aménagement durable  
 
-
-</div>
 </section>
 
 <section class="black">
