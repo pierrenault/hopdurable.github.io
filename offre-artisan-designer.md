@@ -4,7 +4,7 @@ title: Artisan designer
 published: true
 ---
 
-## Nous recherchons 1 Artisan - Designer / concepteur d'espaces-produits originaux / souhaitant entreprendre au sein de l'équipe
+## Nous recherchons 1 Artisan - Designer, concepteur d'espaces-produits originaux et souhaitant entreprendre au sein de l'équipe
 
 
 ### Profil : artisan, ingénieur, architecte, menuisier, designer, paysagiste, etc.
