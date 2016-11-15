@@ -40,8 +40,7 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
 
 <p class="center">
 <br>
-</div>
-</section>
+
 # Pourquoi ?  
 
  - Manque d’exemples locaux de référence  
@@ -49,7 +48,10 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
  - Approches innovantes perçues comme complexes (R&D)  
  - Multiplicité d’acteurs, de métiers &amp; filières  
  - Nécessité de l’approche territoriale peu reconnue  
- 
+</p>
+
+</div>
+</section>
 <section>
 <div class="section_content" markdown="1">
 
