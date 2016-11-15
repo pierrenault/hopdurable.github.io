@@ -4,9 +4,10 @@ title: Artisan designer
 published: true
 ---
 
-# Postulez
+# Rejoignez-nous !
 
-## Recherche 1 concepteur/créateur/artisan h/f souhaitant co-construire l’aventure
+## Nous recherchons 1 Artisan - Designer / concepteur d'espaces-produits originaux / souhaitant entreprendre au sein de l'équipe
+
 
 ### Profil : artisan, ingénieur, architecte, menuisier, designer, paysagiste, etc.
 
