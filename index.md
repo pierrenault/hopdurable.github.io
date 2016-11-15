@@ -17,13 +17,8 @@ title: Hop!durable
 </section>
 
 <section class="black">
-<div class="section_content" markdown="1">
-
-## Un enjeu de société
-Enjeu transversal, interscalaire et indissociable d'une approche de territoire, l'aménagement durable de nos territoires constitue un enjeu majeur à porter par chaque acteur. La cohérence et l’efficacité de la déclinaison des politiques publiques depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.  
-
-</div>
 <div class="section_content section_graph" markdown="1">
+## Un enjeu de société
 
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-eco-light" /></svg> Matériaux : énergie et capacité de recyclage
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-foot" /></svg> Empreinte carbone
@@ -64,7 +59,7 @@ Nous :
 
 - **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
 <br>
-- **Valorisons** un réseau de partenaires locaux en promouvant leur activité, leur savoirfaire et leur engagement vis-à-vis du territoire rhonalpin.  
+- **Valorisons** un réseau de partenaires locaux en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin.  
 <br>
 - **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
