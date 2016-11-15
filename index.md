@@ -18,18 +18,10 @@ title: Hop!durable
 <section class="black">
 <div class="section_content" markdown="1">
 
-# Le Constat
+# Constat
 
-## Manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
-
-Une offre et demande mal identifiées.
-Comprendre pourquoi ?
-
- - Manque d’exemples locaux de référence
- - Faible valorisation du «caractère durable» des aménagements
- - Approches innovantes perçues comme complexes (R&amp;D)
- - Multiplicité d’acteurs, de métiers &amp; filières
- - Nécessité de l’approche territoriale peu reconnue
+## un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
+La cohérence et l’efficacité de la déclinaison des politiques publiques (énergie, biodiversité, etc.) depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.
 
 </div>
 <div class="section_content section_graph" markdown="1">
@@ -47,9 +39,23 @@ Comprendre pourquoi ?
 
 <p class="center">
 <br>
-<br>
-  <a href="concept-hop-durable.html" class="button">Découvrez ce qu‘Hop!durable peut vous apporter</a>
+**Pourquoi ?**
+
+ - Manque d’exemples locaux de référence
+ - Faible valorisation du «caractère durable» des aménagements
+ - Approches innovantes perçues comme complexes (R&amp;D)
+ - Multiplicité d’acteurs, de métiers &amp; filières
+ - Nécessité de l’approche territoriale peu reconnue
+
 </p>
 
 </div>
 </section>
+# Notre solution
+## Une offre complète et innovante
+- Démontrons au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.
+
+- Valorisons un réseau de partenaires locaux en promouvant leur activité, leur savoirfaire et leur engagement vis-à-vis du territoire rhonalpin 
+
+- Créons un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés 
+<br>
