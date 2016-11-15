@@ -19,7 +19,7 @@ title: Hop!durable
 <section class="black">
 <div class="section_content" markdown="1">
 
-# Un enjeu de société
+## Un enjeu de société
 Enjeu transversal, interscalaire et indissociable d'une approche de territoire, l'aménagement durable de nos territoires constitue un enjeu majeur à porter par chaque acteur. La cohérence et l’efficacité de la déclinaison des politiques publiques depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.  
 
 </div>
@@ -41,10 +41,10 @@ Enjeu transversal, interscalaire et indissociable d'une approche de territoire, 
 
 <section>
 <div class="section_content" markdown="1">
-# Constat
-## une culture de l’aménagement durable partagée absente à l’échelle opérationnelle.  
+## Constat
+### une culture de l’aménagement durable partagée absente à l’échelle opérationnelle.  
 
-# Pourquoi ?
+## Pourquoi ?
  - Manque d’exemples locaux de référence  
  - Faible valorisation du «caractère durable» des aménagements  
  - Approches innovantes perçues comme complexes (R&D)  
@@ -57,8 +57,8 @@ Enjeu transversal, interscalaire et indissociable d'une approche de territoire, 
 <section class="black">
 <div class="section_content" markdown="1">
 
-# la solution Hop
-##Une offre complète et innovante  
+## la solution Hop
+### Une offre complète et innovante  
 <br>
 Nous :  
 
