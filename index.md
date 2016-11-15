@@ -71,6 +71,6 @@ Nous :
 
 <p class="center">
 <br>
-  <a href="nous-sommes.html" class="button">Qui sommes-nous ?</a>
+  <a href="01-nous-sommes.html" class="button">Qui sommes-nous ?</a>
 </p>
 <br>
