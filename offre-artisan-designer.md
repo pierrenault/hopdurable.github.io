@@ -37,5 +37,5 @@ published: true
 *Conditions de travail :* à construire ensemble
 
 <p class="center">
-  <a href="assets/pdf/hop-durable_recherche_concepteur_2.pdf" class="button">Hop! recherche 1 concepteur/trice ! </a>
+  <a href="assets/pdf/hop-durable_artisan_designer.pdf" class="button">Hop! recherche 1 artisan-designer-concepteur ! </a>
 </p>
