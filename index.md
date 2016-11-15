@@ -10,7 +10,8 @@ title: Hop!durable
 <div class="wrapper">
   <div class="site-title">
     <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
-    <p>Promouvoir une culture de l‘aménagement durable</p>
+    <p>Notre ambition</p>
+    Promouvoir une culture de l‘aménagement durable
   </div>
 </div>
 </section>
@@ -39,23 +40,24 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
 
 <p class="center">
 <br>
-**Pourquoi ?**
+#Pourquoi ?
 
- - Manque d’exemples locaux de référence
- - Faible valorisation du «caractère durable» des aménagements
- - Approches innovantes perçues comme complexes (R&amp;D)
- - Multiplicité d’acteurs, de métiers &amp; filières
- - Nécessité de l’approche territoriale peu reconnue
-
+ - Manque d’exemples locaux de référence  
+ - Faible valorisation du «caractère durable» des aménagements  
+ - Approches innovantes perçues comme complexes (R&D)  
+ - Multiplicité d’acteurs, de métiers &amp; filières  
+ - Nécessité de l’approche territoriale peu reconnue  
+ 
 </p>
 
 </div>
 </section>
-# Notre solution
-## Une offre complète et innovante
-- Démontrons au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.
+# Notre solution  
+## Une offre complète et innovante  
+- Démontrons au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
+<br>
+- Valorisons un réseau de partenaires locaux en promouvant leur activité, leur savoirfaire et leur engagement vis-à-vis du territoire rhonalpin.  
+<br>
+- Créons un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
-- Valorisons un réseau de partenaires locaux en promouvant leur activité, leur savoirfaire et leur engagement vis-à-vis du territoire rhonalpin 
-
-- Créons un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés 
 <br>
