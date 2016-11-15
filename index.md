@@ -49,9 +49,12 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
  - Nécessité de l’approche territoriale peu reconnue  
  
 </p>
-
 </div>
 </section>
+
+<section>
+<div class="section_content" markdown="1">
+
 # Notre solution  
 ## Une offre complète et innovante  
 - Démontrons au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
