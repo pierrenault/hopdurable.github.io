@@ -10,11 +10,12 @@ title: Hop!durable
 <div class="wrapper">
   <div class="site-title">
     <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
-    <p>Notre ambition : promouvoir une culture de l‘aménagement durable</p>
+    <p>Notre ambition</p>
     
   </div>
 </div>
 </section>
+promouvoir une culture de l‘aménagement durable
 
 <section class="black">
 <div class="section_content section_graph" markdown="1">
@@ -37,7 +38,7 @@ title: Hop!durable
 <section>
 <div class="section_content" markdown="1">
 ## Constat
-### une culture de l’aménagement durable partagée absente à l’échelle opérationnelle.  
+L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
 
 ## Pourquoi ?
  - Manque d’exemples locaux de référence  
