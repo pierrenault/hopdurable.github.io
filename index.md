@@ -21,7 +21,7 @@ title: Hop!durable
 
 # Constat
 
-## un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
+## Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
 La cohérence et l’efficacité de la déclinaison des politiques publiques (énergie, biodiversité, etc.) depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.
 
 </div>
@@ -48,15 +48,11 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
  - Multiplicité d’acteurs, de métiers &amp; filières  
  - Nécessité de l’approche territoriale peu reconnue  
  
-</p>
-</div>
-</section>
-
 <section>
 <div class="section_content" markdown="1">
 
-# La solution Hop!  
-## Une offre complète et innovante  
+# la solution Hop!  
+## Une offre complète et innovante
 
 - Démontrons au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
 <br>
