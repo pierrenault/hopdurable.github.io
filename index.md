@@ -69,4 +69,8 @@ Nous :
 <br>
 - **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
+<p class="center">
+<br>
+  <a href="nous-sommes.html" class="button">Qui sommes-nous ?</a>
+</p>
 <br>
