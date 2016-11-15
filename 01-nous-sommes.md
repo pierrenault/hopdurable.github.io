@@ -7,6 +7,7 @@ layout: main
 
 Hop!Durable est aujourd'hui une association de préfiguration.  
 L'objet : la promotion et le développement d’une culture de l’aménagement durable à l’échelle du bassin rhonalpin.  
+<br>
 Elle est organisée selon un **Directoire collégial** regroupant 4 collèges :
 <br>
 • Membres actifs  
