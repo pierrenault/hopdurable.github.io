@@ -14,11 +14,10 @@ title: Hop!durable
     </div>
 </div>
 </section>
-
-<section>
-<div class="section_content" markdown="1">
 # Notre ambition  
 ## promouvoir une culture de l‘aménagement durable  
+<section>
+
 
 </div>
 </section>
