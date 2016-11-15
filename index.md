@@ -16,18 +16,10 @@ title: Hop!durable
 </div>
 </section>
 
-<section class="black">
-<div class="section_content" markdown="1">
-
-# Constat
-
-## Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
-La cohérence et l’efficacité de la déclinaison des politiques publiques (énergie, biodiversité, etc.) depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.
-
-</div>
+<section class="black center">
 <div class="section_content section_graph" markdown="1">
 
-## Un enjeu de société transverse à porter collectivement, indissociable d&#39;une approche de territoire
+# L'aménagement durable : un enjeu de société
 
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-eco-light" /></svg> Matériaux : énergie et capacité de recyclage
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-foot" /></svg> Empreinte carbone
@@ -38,20 +30,28 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-hand-earth" /></svg> Ressources du sol biodiversité & pollutions
  - <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-size" viewBox="0 0 80 80"><use xlink:href="{{ site.baseurl }}/assets/images/symbols.svg#hd-leaf" /></svg> Biodiversité & entretien limité
 
-<p class="center">
-<br>
+**Un enjeu transverse à porter par chaque acteur à son échelle, indissociable d'une approche de territoire**
+</div>
+</section>
 
-# Pourquoi ?  
+<section>
+<div class="section_content" markdown="1">
+# Constat
+
+## Un manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle
+La cohérence et l’efficacité de la déclinaison des politiques publiques (énergie, biodiversité, etc.) depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.
+
+# Pourquoi ?
 
  - Manque d’exemples locaux de référence  
  - Faible valorisation du «caractère durable» des aménagements  
  - Approches innovantes perçues comme complexes (R&D)  
- - Multiplicité d’acteurs, de métiers &amp; filières  
+ - Multiplicité d’acteurs, de métiers & filières  
  - Nécessité de l’approche territoriale peu reconnue  
-</p>
-
+ 
 </div>
 </section>
+
 <section>
 <div class="section_content" markdown="1">
 
