@@ -17,8 +17,9 @@ title: Hop!durable
 
 <section>
 <div class="section_content" markdown="1">
-#Notre ambition
-##promouvoir une culture de l‘aménagement durable
+# Notre ambition  
+## promouvoir une culture de l‘aménagement durable  
+
 </div>
 </section>
 
@@ -59,7 +60,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 <div class="section_content" markdown="1">
 
 ## la solution Hop
-### Une offre complète et innovante  
+
 <br>
 Nous :  
 
