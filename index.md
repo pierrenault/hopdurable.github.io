@@ -52,7 +52,7 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
 </div>
 </section>
 
-<section>
+<section class="black">
 <div class="section_content" markdown="1">
 
 # la solution Hop!  
