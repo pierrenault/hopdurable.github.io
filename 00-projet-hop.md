@@ -9,7 +9,7 @@ group: navigation
 Hop!Durable impulse et porte une dynamique en faveur de l’aménagement durable à l’échelle du bassin rhonalpin, révélant la demande et accompagnant la structuration de l’offre à l’échelle opérationnelle. Par une approche collaborative et transversale, pragmatique et créative Hop!Durable lève les obstacles du financement pour créer références & outils afin de faire évoluer les regards sur les enjeux actuels de nos territoires et donner à chacun le pouvoir d’aménager durablement.  
 <br>
 
-# Start-up  
+# Start-up
 Hop!Durable réalise des démonstrateurs originaux et innovants, espaces de références à pédagogie active ancrés sur les territoires. Lieux d’usages, ils renforcent l’attractivité du territoire. Hop!Durable y valorise les resources locales et les acteurs locaux engagés.  
 <br>
 
