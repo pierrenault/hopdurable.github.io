@@ -4,10 +4,7 @@ title: Notre feuille de route
 published: true
 group: navigation
 ---
----
-layout: default
-title: Hop!durable
----
+
 
 <div class="section_content" markdown="1">
 
