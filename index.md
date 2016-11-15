@@ -40,6 +40,8 @@ La cohérence et l’efficacité de la déclinaison des politiques publiques (é
 
 <p class="center">
 <br>
+</div>
+</section>
 # Pourquoi ?  
 
  - Manque d’exemples locaux de référence  
