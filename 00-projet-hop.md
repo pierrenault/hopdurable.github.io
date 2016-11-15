@@ -1,6 +1,6 @@
 ---
 layout: main
-title: la ligne Hop
+title: En bref
 published: true
 group: navigation
 ---
