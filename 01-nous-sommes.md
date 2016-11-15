@@ -15,7 +15,12 @@ Structure porteuse du projet, le projet est porté par l’Association Hop!Durab
 Récemment créée, l’Association Hop!Durable préfigure la gouvernance participative du projet. Réunir en son sein les acteurs de l'aménagement durable (publics, parapublics, privés) traduit notre volonté d'inscrire Hop!Durable au coeur d'une coopération de territoire efficace - portée par et pour ses acteurs - et qui impulse et porte une dynamique sur la durée.  
 
 L’équipe à plein temps est composée de 2 membres actifs bénévoles.
-Nous recherchons une troisième personne. Nous [rejoindre]("href="offre-artisan-designer.html" ?  
+Nous recherchons une troisième personne. Nous [rejoindre](a href="offre-artisan-designer.html" ? 
+
+<br>
+  <a href="offre-artisan-designer.html" class="button">Nous rejoindre</a>
+
+<br> 
 
 
 <p class="center">
