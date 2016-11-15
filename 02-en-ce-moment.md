@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hop!durable
+title: En ce moment !
 published: true
 group: navigation
 ---
