@@ -20,5 +20,4 @@ L’équipe à plein temps est composée de 2 membres actifs bénévoles.
 Nous recherchons une troisième personne.
 
 <br>
-<br>
   <a href="offre-artisan-designer.html" class="button">Nous rejoindre</a>
