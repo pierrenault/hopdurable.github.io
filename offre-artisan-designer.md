@@ -4,8 +4,6 @@ title: Artisan designer
 published: true
 ---
 
-# Rejoignez-nous !
-
 ## Nous recherchons 1 Artisan - Designer / concepteur d'espaces-produits originaux / souhaitant entreprendre au sein de l'équipe
 
 
