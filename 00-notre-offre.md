@@ -27,8 +27,6 @@ Nous construisons un cadre propice à l’expérimentation pour accompagner le d
 **Tout seul l’enjeu me dépasse, ensemble il est à notre portée.
 <br>
 </p>
-  <a href="offre-artisan-designer.html" class="button">Nous rejoindre</a>
-</div>
-<br>
-
   <a href="01-nous-sommes.html" class="button">Nous connaître</a>
+  </div>
+<br>
