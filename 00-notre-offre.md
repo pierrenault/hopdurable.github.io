@@ -5,10 +5,10 @@ published: true
 group: navigation
 ---
 
-<div class="section_content" markdown="1">  
-<p class="center">  
+<section markdown="1" class="center">
 
 ## Faire la preuve  
+
 <img src="assets/images/offre-pictos-14.svg">  
 
 Nous démontrons au plus près des acteurs par la réalisation d’espaces de références pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation.  
@@ -34,5 +34,5 @@ Nous construisons un cadre propice à l’expérimentation pour accompagner le d
 <br>
   <a href="01-nous-sommes.html" class="button">Coopérons ?</a>
    </p>
- </div>
+ </section>
 <br>
