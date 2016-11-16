@@ -9,7 +9,7 @@ group: navigation
 
 ## Faire la preuve  
 
-<img src="assets/images/offre-pictos-14.svg">  
+<img src="assets/images/offre_pictos-14.svg">  
 
 Nous démontrons au plus près des acteurs par la réalisation d’espaces de références pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation.  
 
@@ -18,7 +18,7 @@ Nous démontrons au plus près des acteurs par la réalisation d’espaces de r�
 <br>
 
 ## Permettre l'essaimage  
-<img src="assets/images/offre-pictos-15.svg">  
+<img src="assets/images/offre_pictos-15.svg">  
 
 Nous valorisons les acteurs engagés à l’échelle locale en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin
 
@@ -27,7 +27,7 @@ Nous valorisons les acteurs engagés à l’échelle locale en promouvant leur a
 <br>
 
 ## Progresser ensemble  
-<img src="assets/images/offre-pictos-14.svg">  
+<img src="assets/images/offre_pictos-14.svg">  
 Nous construisons un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.
 
 *"Tout seul l’enjeu me dépasse, ensemble il est à notre portée."*
