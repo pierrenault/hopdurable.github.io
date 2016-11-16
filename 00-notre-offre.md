@@ -5,28 +5,34 @@ published: true
 group: navigation
 ---
 
-<div class="section_content" markdown="1">
+<div class="section_content" markdown="1">  
+<p class="center">  
+
 ## Faire la preuve  
+<img src="assets/images/offre-pictos-14.svg">  
 
 Nous démontrons au plus près des acteurs par la réalisation d’espaces de références pédagogiques ancrés sur le territoire en participant à son attractivité et sa valorisation.  
-<p class="center">
-"L’exemple n’est pas la meilleure façon de convaincre, c’est la seule."  
-</p>
+
+*"L’exemple n’est pas la meilleure façon de convaincre, c’est la seule."  
+
 <br>
 
 ## Permettre l'essaimage  
+<img src="assets/images/offre-pictos-15.svg">  
+
 Nous valorisons les acteurs engagés à l’échelle locale en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin
-<p class="center">
-"Faire, puis donner la recette."
-</p>
+
+*"Faire, puis donner la recette."
+
 <br>
 
 ## Progresser ensemble  
+<img src="assets/images/offre-pictos-14.svg">  
 Nous construisons un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.
-<p class="center">
-"Tout seul l’enjeu me dépasse, ensemble il est à notre portée."
+
+*"Tout seul l’enjeu me dépasse, ensemble il est à notre portée."
 <br>
- </p>
   <a href="01-nous-sommes.html" class="button">Coopérons ?</a>
+   </p>
  </div>
 <br>
