@@ -31,6 +31,3 @@ Nous construisons un cadre propice à l’expérimentation pour accompagner le d
 </p>
 <br>
   <a href="01-nous-sommes.html" class="button">Nous connaître</a>
-
-
-
