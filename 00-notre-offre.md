@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Notre offre
-published: false
+published: true
 group: navigation
 ---
 <br>
