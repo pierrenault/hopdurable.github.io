@@ -1,15 +1,18 @@
-- name: Imprimerie Notre-Dame
-  logo: bouygues.svg
-  website: http://imprimerienotredame.com/
-  motivation: "ils soutiennent notre démarche"
-  type: associate
-- name: Suez
-  logo: suez.svg
-  website: http://www.suez.com/
-  motivation: "Des grands copains"
-  type: partner
-- name: Suez 2
-  logo: suez.svg
-  website: http://www.suez.com/
-  motivation: "Des grands copains"
-  type: contact
+- name: Cap Berriat
+  logo: cap-berriat-logo.svg
+  website: http://www.cap-berriat.com/
+  motivation: "Cap Berriat nous accompagne dans le développement du projet depuis les tous débuts (structure de l'association, modèle économique, etc) : un atout précieux !"
+  type: accompagnateur
+  
+- name:  Chambre de Commerce et d'Industrie
+  logo: cci-logo.svg
+  website: http://www.grenoble.cci.fr/
+  motivation: "La CCI de Grenoble nous accompagne dans le cadre du proramme Idéclic Conseil pour challenger le projet et mettre toutes les chances de notre côté."
+  type: accompagnateur
+
+
+- name:  ADIE
+  logo: adie-logo.svg
+  website: http://www.adieconnect.fr/accompagnement/adie-creajeunes
+  motivation: "Depuis le début, l'ADIE constitue un interlocuteur attentif privilégié très à l'écoute. L'ADIE nous accompagne à travers le programme CréaJeunes, par des ateliers de formation collectifs et un accompagnement individuel."
+  type: accompagnateur
