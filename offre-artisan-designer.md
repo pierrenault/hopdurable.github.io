@@ -11,10 +11,10 @@ published: true
 
 
 ### Tu es une personne  
-• de confiance, vraie et honnête dans tes relations 
-• entreprenante, curieuse, fourmillant d’idées 
-• exigeante envers le sens de ton travail et sa qualité 
-• qui souhaite t’engager pour l’aménagement durable du territoire 
+• de confiance, vraie et honnête dans tes relations  
+• entreprenante, curieuse, fourmillant d’idées  
+• exigeante envers le sens de ton travail et sa qualité  
+• qui souhaite t’engager pour l’aménagement durable du territoire  
 
 ### Tu es (très) doué dans  
 • la conception de mobilier et d’espace extérieur  
@@ -34,5 +34,5 @@ published: true
 *Conditions de travail :* à construire ensemble
 
 <p class="center">
-  <a href="assets/pdf/hop-durable_artisan_designer.pdf" class="button">Hop! recherche 1 artisan-designer-concepteur ! </a>
+  <a href="assets/pdf/hop-durable_artisan_designer.pdf" class="button">Version pdf. de l'offre </a>
 </p>
