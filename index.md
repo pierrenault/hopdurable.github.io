@@ -48,7 +48,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 
 ## Pourquoi ?
  - Manque d’exemples locaux de référence  
- - Faible valorisation du «caractère durable» des aménagements  
+ - Faible valorisation du « caractère durable » des aménagements  
  - Approches innovantes perçues comme complexes (R&D)  
  - Multiplicité d’acteurs, de métiers & filières  
  - Nécessité de l’approche territoriale peu reconnue  
