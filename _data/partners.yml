@@ -5,14 +5,14 @@
   type: accompagnateur
   
 - name:  Chambre de Commerce et d'Industrie
-  logo: cci-logo.svg
+  logo: logo-cci.svg
   website: http://www.grenoble.cci.fr/
   motivation: "La CCI de Grenoble nous accompagne dans le cadre du proramme Idéclic Conseil pour challenger le projet et mettre toutes les chances de notre côté."
   type: accompagnateur
 
 
 - name:  ADIE
-  logo: adie-logo.svg
+  logo: logo-adie.svg
   website: http://www.adieconnect.fr/accompagnement/adie-creajeunes
   motivation: "Depuis le début, l'ADIE constitue un interlocuteur attentif privilégié très à l'écoute. L'ADIE nous accompagne à travers le programme CréaJeunes, par des ateliers de formation collectifs et un accompagnement individuel."
   type: accompagnateur
