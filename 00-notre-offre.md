@@ -27,7 +27,7 @@ Nous valorisons les acteurs engagés à l’échelle locale en promouvant leur a
 <br>
 
 ## Progresser ensemble  
-<img src="assets/images/offre_pictos-14.svg">  
+<img src="assets/images/offre_pictos-16.svg">  
 Nous construisons un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.
 
 *"Tout seul l’enjeu me dépasse, ensemble il est à notre portée."*
