@@ -57,7 +57,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 <p class="center">
 ## La solution Hop  
 <br>
-Nous  
+Nous
 <p/>
 
 - **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
