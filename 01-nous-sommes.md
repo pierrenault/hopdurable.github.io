@@ -21,7 +21,7 @@ L’équipe à plein temps est composée de 3 membres actifs bénévoles.
 Nous recherchons une quatrième personne Artisan - designer - concepteur.
 
 <br>
-  <a href="offre-artisan-designer.html" class="button">Nous rejoindre</a>
+  <a href="offre-artisan-designer.html" class="button">Voir l'offre</a>
 </div>
 
 ## Ils nous accompagnent  
