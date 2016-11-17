@@ -23,3 +23,11 @@ Nous recherchons une quatrième personne Artisan - designer - concepteur.
 <br>
   <a href="offre-artisan-designer.html" class="button">Nous rejoindre</a>
 </div>
+
+## Ils nous accompagnent  
+
+{% for partners in site.data.partners %}
+  {{ partners.name }}
+  {{ partners.logo }}
+  {{ partners.motivation }}
+{% endfor %}
