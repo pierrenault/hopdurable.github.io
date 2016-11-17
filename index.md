@@ -19,9 +19,9 @@ title: Hop!durable
 <div class="section_content" markdown="1">
 
 <p class="center">
-# Notre ambition
+# Notre ambition  
 <br>
-## promouvoir une culture de l'aménagement durable
+## Promouvoir une culture de l'aménagement durable  
 <br>
 </p>
 
@@ -36,7 +36,8 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
  - Nécessité de l’approche territoriale peu reconnue  
  
 </div>
-
+</section>
+<section class="black">
 <div class="section_content section_graph" markdown="1">
 ## Aménagement durable : un enjeu de société
 
@@ -52,9 +53,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 <br>
 
 </div>
-</section>
 
-<section class="black">
 <div class="section_content" markdown="1">
 
 ## La solution Hop
@@ -78,3 +77,4 @@ Nous :
   <a href="00-notre-offre.html" class="button">Découvrir notre offre</a> 
 </p>
 <br>
+</div>
