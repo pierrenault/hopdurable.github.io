@@ -60,11 +60,11 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 Nous
 <p/>
 
-- **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
+ - **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
 <br>
-- **Valorisons** un réseau de partenaires locaux en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin.  
+ - **Valorisons** un réseau de partenaires locaux en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin.  
 <br>
-- **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
+ - **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
 <p class="center">
 <br>
