@@ -23,6 +23,22 @@ title: Hop!durable
 </div>
 </section>
 
+<section>
+<div class="section_content" markdown="1">
+## Constat
+L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
+
+## Pourquoi ?
+ - Manque d’exemples locaux de référence  
+ - Faible valorisation du « caractère durable » des aménagements  
+ - Approches innovantes perçues comme complexes (R&D)  
+ - Multiplicité d’acteurs, de métiers & filières  
+ - Nécessité de l’approche territoriale peu reconnue  
+ 
+</div>
+</section>
+
+
 <section class="black">
 <div class="section_content section_graph" markdown="1">
 ## Un enjeu de société
@@ -41,22 +57,8 @@ title: Hop!durable
 </div>
 </section>
 
+
 <section>
-<div class="section_content" markdown="1">
-## Constat
-L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
-
-## Pourquoi ?
- - Manque d’exemples locaux de référence  
- - Faible valorisation du « caractère durable » des aménagements  
- - Approches innovantes perçues comme complexes (R&D)  
- - Multiplicité d’acteurs, de métiers & filières  
- - Nécessité de l’approche territoriale peu reconnue  
- 
-</div>
-</section>
-
-<section class="black">
 <div class="section_content" markdown="1">
 
 ## La solution Hop
