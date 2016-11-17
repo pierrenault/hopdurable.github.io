@@ -36,10 +36,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
  - Nécessité de l’approche territoriale peu reconnue  
  
 </div>
-</section>
 
-
-<section class="black">
 <div class="section_content section_graph" markdown="1">
 ## Aménagement durable : un enjeu de société
 
@@ -57,8 +54,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 </div>
 </section>
 
-
-<section>
+<section class="black">
 <div class="section_content" markdown="1">
 
 ## La solution Hop
