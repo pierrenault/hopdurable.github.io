@@ -5,7 +5,7 @@ layout: main
 <div class="section_content" markdown="1">
 ## Association de préfiguration  
 
-Hop!Durable est aujourd'hui une association de préfiguration.  
+Hop!Durable est aujourd'hui une [association](http://www.journal-officiel.gouv.fr/publications/assoc/pdf/2016/0040/JOAFE_PDF_Unitaire_20160040_00728.pdf) de préfiguration.  
 L'objet : la promotion et le développement d’une culture de l’aménagement durable à l’échelle du bassin rhonalpin.  
 <br>
 Elle est organisée selon un **Directoire collégial** regroupant 4 collèges :
