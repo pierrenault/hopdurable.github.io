@@ -14,17 +14,17 @@ title: Hop!durable
     </div>
 </div>
 </section>
+
 <section>
 <div class="section_content" markdown="1">
+
+<p class="center">
 # Notre ambition
 <br>
 ## promouvoir une culture de l'aménagement durable
+<br>
+</p>
 
-</div>
-</section>
-
-<section>
-<div class="section_content" markdown="1">
 ## Constat
 L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
 
