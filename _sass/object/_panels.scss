@@ -18,6 +18,9 @@ section {
       margin: auto;
     }
   }
+  &.section_newsletter {
+    border-top: 2px solid palette(primary,light);
+  }
   .section_content {
     position: relative;
     overflow: hidden;
