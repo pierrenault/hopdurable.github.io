@@ -18,12 +18,12 @@ title: Hop!durable
 <section>
 <div class="section_content" markdown="1">
 
-<p class="center" markdown="1">
+<div class="center" markdown="1">
 # Notre ambition
-<br>
+
 ## promouvoir une culture de l'aménagement durable
-<br>
-</p>
+
+</div>
 
 ## Constat
 L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
@@ -36,7 +36,9 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
  - Nécessité de l’approche territoriale peu reconnue  
  
 </div>
+</section>
 
+<section class="black">
 <div class="section_content section_graph" markdown="1">
 ## Aménagement durable : un enjeu de société
 
@@ -54,7 +56,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 </div>
 </section>
 
-<section class="black">
+<section>
 <div class="section_content" markdown="1">
 
 ## La solution Hop
@@ -69,12 +71,6 @@ Nous :
 - **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
 <p class="center">
-<br>
-  <a href="01-nous-sommes.html" class="button">Qui sommes-nous ?</a> 
-  
-  <br>
-  <br>
-  
+  <a href="01-nous-sommes.html" class="button">Qui sommes-nous ?</a>  
   <a href="00-notre-offre.html" class="button">Découvrir notre offre</a> 
 </p>
-<br>

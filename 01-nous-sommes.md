@@ -24,11 +24,11 @@ Nous recherchons une quatrième personne Artisan - designer - concepteur.
 ## Ils nous accompagnent  
 
 {% for partners in site.data.partners %}
-<div class="clearfix">
-  <img class="left" src="{{ partners.logo }}" alt="{{ partners.name }}" style="max-width: 20%;margin-right: 1rem;">
-  <div class="clearfix" style="overflow:hidden">
-  <h3>{{ partners.name }}</h3>
-  {{ partners.motivation }}
+<div class="partners-list">
+  <img src="assets/images/{{ partners.logo }}" alt="{{ partners.name }}">
+  <div class="partners-list__information">
+    <h3>{{ partners.name }}</h3>
+    {{ partners.motivation }}
   </div>
 </div>
 {% endfor %}
