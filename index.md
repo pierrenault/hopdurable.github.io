@@ -18,6 +18,13 @@ title: Hop!durable
 <section>
 <div class="section_content" markdown="1">
 
+<p class="center" markdown="1">
+# Notre ambition
+<br>
+## promouvoir une culture de l'aménagement durable
+<br>
+</p>
+
 ## Constat
 L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
 
@@ -29,8 +36,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
  - Nécessité de l’approche territoriale peu reconnue  
  
 </div>
-</section>
-<section class="black">
+
 <div class="section_content section_graph" markdown="1">
 ## Aménagement durable : un enjeu de société
 
@@ -46,23 +52,21 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 <br>
 
 </div>
+</section>
+
+<section class="black">
 <div class="section_content" markdown="1">
-<p class="center">
 
-## La solution Hop  
-
-**Promouvoir une culture de l'aménagement durable**  
+## La solution Hop
 
 <br>
+Nous :  
 
-Nous
-<p/>
-
- - **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
+- **Démontrons** au plus près des acteurs par la réalisation d’espaces-produits originaux, références en matière d’aménagement durable et supports de pédagogie active. Aux coûts optimisés, ces démonstrateurs de proximité, ancrés sur le territoire, participent à son attractivité et sa valorisation.  
 <br>
- - **Valorisons** un réseau de partenaires locaux en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin.  
+- **Valorisons** un réseau de partenaires locaux en promouvant leur activité, leur savoir-faire et leur engagement vis-à-vis du territoire rhonalpin.  
 <br>
- - **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
+- **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
 <p class="center">
 <br>
@@ -74,4 +78,3 @@ Nous
   <a href="00-notre-offre.html" class="button">Découvrir notre offre</a> 
 </p>
 <br>
-</div>

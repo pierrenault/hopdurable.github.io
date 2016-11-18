@@ -300,10 +300,9 @@ section {
 }
 
 .button {
-  margin: $base-line;
   &,&:visited {
     display: inline-block;
-    margin: auto; 
+    margin: $base-line auto;
     padding: 0.7rem 1rem 0.5rem;
     max-width: 25rem;
     width: 100%;
