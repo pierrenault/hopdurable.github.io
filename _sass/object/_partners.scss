@@ -1,0 +1,27 @@
+////
+/// Partners
+////
+
+.partners-list {
+  display: flex;
+  justify-content: center;
+  margin: $base-line*2 0;
+  img {
+    padding: 1rem;
+    width: 100%;
+  }
+}
+
+.partners-list__content {
+  margin: auto;
+  width: 30%;
+  height: 100%;
+}
+
+.partners-list__information {
+  display: none;
+  padding-left: 1rem;
+  h3 {
+    margin: 0;
+  }
+}

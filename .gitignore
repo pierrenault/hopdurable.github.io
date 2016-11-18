@@ -31,6 +31,9 @@ _site/
 .sass-cache/
 .asset-cache/
 .jekyll-metadata
+.netlify
+.npm-debug.log
+Gemfile.lock
 
 # node-waf configuration
 .DS_Store

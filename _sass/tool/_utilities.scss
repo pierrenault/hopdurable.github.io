@@ -50,30 +50,32 @@
 }
 
 
-
 // Toggling content
 // -------------------------
-
 // Note: Deprecated .hide in favor of .hidden or .sr-only (as appropriate) in v3.0.1
+
 .hide {
   display: none !important;
 }
+
 .show {
   display: block !important;
 }
+
 .invisible {
   visibility: hidden;
 }
 
-
-// Hide from screenreaders and browsers
-//
-// Credit: HTML5 Boilerplate
-
-.hidden {
-  display: none !important;
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }
-
 
 // For Affix plugin
 // -------------------------

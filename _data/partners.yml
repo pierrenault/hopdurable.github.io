@@ -1,18 +1,17 @@
 - name: Cap Berriat
-  logo: logo-cap.svg
+  logo: logo-cap.jpg
   website: http://www.cap-berriat.com/
-  motivation: "Cap Berriat nous accompagne dans le développement du projet depuis les tous débuts (structure de l'association, modèle économique, etc) : un atout précieux !"
+  motivation: "Cap Berriat nous accompagne dans le développement du projet depuis le début (création de l‘association, évolution du modèle économique, etc.) : un appui précieux."
   type: accompagnateur
   
-- name:  Chambre de Commerce et d'Industrie
-  logo: logo-cci.svg
-  website: http://www.grenoble.cci.fr/
-  motivation: "La CCI de Grenoble nous accompagne dans le cadre du proramme Idéclic Conseil pour challenger le projet et mettre toutes les chances de notre côté."
-  type: accompagnateur
-
-
-- name:  ADIE
-  logo: logo-adie.svg
+- name: Adie
+  logo: logo-adie.png
   website: http://www.adieconnect.fr/accompagnement/adie-creajeunes
-  motivation: "Depuis le début, l'ADIE constitue un interlocuteur attentif privilégié très à l'écoute. L'ADIE nous accompagne à travers le programme CréaJeunes, par des ateliers de formation collectifs et un accompagnement individuel."
+  motivation: "Interlocuteur attentif à l'écoute depuis le début, l‘Adie nous accompagne aujourd‘hui à travers le dispositif CréaJeunes."
+  type: accompagnateur
+  
+- name: Chambre du Commerce et de l'Industrie
+  logo: logo-cci.jpg
+  website: http://www.grenoble.cci.fr/
+  motivation: "A travers le programme Idéclic Conseil, la CCI de Grenoble nous accompagne pour challenger le projet et mettre toutes les chances de réussites de notre côté."
   type: accompagnateur

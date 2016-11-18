@@ -38,13 +38,13 @@ $grey-color-dark:         darken($grey-color, 25%);
 $palettes: (
     primary: (
         base:   $color-primary,
-        light:  mix(white, $color-primary, 30%),
-        dark:   mix(black, $color-primary, 30%)
+        light:  mix(white, $color-primary, 70%),
+        dark:   mix(black, $color-primary, 50%)
     ),
     secondary: (
-        base:   #ffa900,
-        light:  mix(white, $color-secondary, 30%),
-        dark:   mix(black, $color-secondary, 30%)
+        base:   $color-secondary,
+        light:  mix(white, $color-secondary, 50%),
+        dark:   mix(black, $color-secondary, 50%)
     ),
     grey: (
         base:   #595959,
