@@ -16,7 +16,6 @@ group :test do
     gem 'rake', '~> 11.0.0'
     gem 'jekyll', versions['jekyll']
     gem 'html-proofer', '~> 3.0.0'
-    gem 'jekyll-cloudinary' 
 end
 
 group 'jekyll-plugins' do

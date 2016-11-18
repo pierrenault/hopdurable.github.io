@@ -1,18 +1,17 @@
 ---
 title: Hop!Durable
 timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 email: contact@hopdurable.fr
 description: Start-Up Coopérative
 ambition: Promouvoir une culture de l’aménagement durable
+
 baseurl: ''
 url: http://hopdurable.fr
 markdown: kramdown
+cloudinary:
+  cloud_name: hopdurable
+
 gems:
-- jekyll-seo-tag
+  - jekyll-seo-tag
+  - jekyll-cloudinary
+  - jekyll-offline
