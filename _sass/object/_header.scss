@@ -18,18 +18,20 @@
   }
 }
 
-.site-header-background img {
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  transform: translate(50%,50%);
-  object-fit: cover;
-  background: palette(primary,light);
-  background: linear-gradient(0deg, lightblue, palette(primary,light));
-  mix-blend-mode: multiply;
+.site-header-background {
+  img {
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transform: translate(50%,50%);
+    object-fit: cover;
+    background: palette(primary,light);
+    background: linear-gradient(0deg, lightblue, palette(primary,light));
+    mix-blend-mode: multiply;
+  }
 }
 
 .site-footer {
