@@ -2,6 +2,7 @@
 title: Nous sommes
 layout: main
 ---
+
 ## Association de préfiguration  
 
 Hop!Durable est aujourd'hui une [association](http://www.journal-officiel.gouv.fr/publications/assoc/pdf/2016/0040/JOAFE_PDF_Unitaire_20160040_00728.pdf) de préfiguration.  

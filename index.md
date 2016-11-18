@@ -1,7 +1,6 @@
 ---
-title: Hop!durable Accueil
-layout: default
 title: Hop!durable
+layout: default
 ---
 
 {% include header.html %} 

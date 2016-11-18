@@ -1,9 +1,8 @@
 ---
-layout: main
 title: Notre offre
-published: true
+permalink: "/notre-offre"
+layout: main
 group: navigation
-permalink: /notre-offre
 ---
 
 ## Faire la preuve  

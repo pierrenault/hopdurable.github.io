@@ -1,9 +1,9 @@
 ---
-layout: default
 title: En ce moment !
+permalink: "/en-ce-moment"
 published: false
+layout: default
 group: navigation
-permalink: /en-ce-moment
 ---
 
 {% include header.html %}

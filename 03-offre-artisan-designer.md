@@ -1,7 +1,6 @@
 ---
-layout: main
 title: Artisan designer
-published: true
+layout: main
 ---
 
 ## Nous recherchons 1 Artisan - Designer, concepteur d'espaces-produits originaux et souhaitant entreprendre au sein de l'équipe

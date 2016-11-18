@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Le projet Hop!
 published: false
+layout: default
 group: navigation
 ---
 

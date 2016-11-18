@@ -1,7 +1,7 @@
 ---
-layout: main
 title: Partenaires
 published: false
+layout: main
 ---
 
 {% for partners in site.data.partners %}
