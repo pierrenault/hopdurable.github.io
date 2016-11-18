@@ -1,0 +1,23 @@
+////
+/// Partners
+////
+
+.partners-list {
+  display: flex;
+  justify-content: center;
+  margin-bottom: $base-line;
+  img {
+    padding: 1rem;
+    width: 50%;
+    max-width: 15rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+}
+
+.partners-list__information {
+  padding-left: 1rem;
+  h3 {
+    margin: 0;
+  }
+}

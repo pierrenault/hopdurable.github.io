@@ -94,7 +94,7 @@ a {
   text-decoration: none;
   color: $color-secondary;
   &:visited {
-    color: palette(secondary,dark);
+    color: palette(secondary,dark)w;
   }
   &:hover {
     text-decoration: underline;
