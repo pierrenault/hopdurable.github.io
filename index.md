@@ -6,24 +6,18 @@ title: Hop!durable
 
 {% include header.html %} 
 
-<section>
-<div class="wrapper">
-  <div class="site-title">
-    <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
-    <p></p>
+<section class="section_header">
+  <div class="wrapper">
+    <span class="site-header-background">{% cloudinary /assets/images/background_grenoble.jpg alt="" %}</span>
+    <div class="site-title">
+      <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
+      <p class="site-slogan">Aménagement durable <br> démontrer, essaimer, progresser ensemble</p>
     </div>
-</div>
+  </div>
 </section>
 
 <section>
 <div class="section_content" markdown="1">
-
-<div class="center" markdown="1">
-# Notre ambition
-
-## promouvoir une culture de l'aménagement durable
-
-</div>
 
 ## Constat
 L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  

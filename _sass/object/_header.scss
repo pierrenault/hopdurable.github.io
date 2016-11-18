@@ -27,6 +27,9 @@
   z-index: -1;
   transform: translate(50%,50%);
   object-fit: cover;
+  background: palette(primary,light);
+  background: linear-gradient(0deg, lightblue, palette(primary,light));
+  mix-blend-mode: multiply;
 }
 
 .site-footer {
@@ -72,6 +75,12 @@
   max-width: 10em; 
 }
 
+.site-slogan {
+  padding: 0.3rem 0.4rem; 
+  color: #fff;
+  background: rgba(0,0,0,0.2);
+}
+
 .site-nav {
   @media #{$medium-up} {
     display: flex;
@@ -81,7 +90,7 @@
   padding: 0;
   width: 100%;
   background: #000;
-  border-bottom: 5px solid $color-primary;
+  border-bottom: 2px solid $color-primary;
   ul {
     display: inline-block;
     @media #{$medium-up} {

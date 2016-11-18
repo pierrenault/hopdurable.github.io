@@ -21,6 +21,10 @@ section {
   &.section_newsletter {
     border-top: 2px solid palette(primary,light);
   }
+  &.section_header {
+    position: relative;
+    overflow: hidden;
+  }
   .section_content {
     position: relative;
     overflow: hidden;

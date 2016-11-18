@@ -30,3 +30,9 @@
 @import "object/header";
 @import "object/panels";
 @import "object/partners";
+
+.picto_illustration {
+  float: left;
+  margin-top: -1rem;
+  max-width: 10rem;
+}

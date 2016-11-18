@@ -3,6 +3,7 @@ layout: default
 title: En ce moment !
 published: false
 group: navigation
+permalink: /en-ce-moment
 ---
 
 {% include header.html %}
