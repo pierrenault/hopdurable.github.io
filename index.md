@@ -7,7 +7,7 @@ layout: default
 
 <section class="section_header">
   <div class="wrapper">
-    <span class="site-header-background">{% cloudinary /assets/images/background_grenoble.jpg alt="" %}</span>
+    <span class="site-header-background"><img src="/assets/images/background_grenoble.jpg" alt="" /></span>
     <div class="site-title">
       <a class="site-logo" href="{{ site.baseurl }}/"><img src="assets/images/logo_hop_amenagement_durable.svg" alt="Logo {{ site.title }}"></a>
       <p class="site-slogan">Aménagement durable <br> démontrer, essaimer, progresser ensemble</p>

@@ -14,6 +14,7 @@ ambition: Promouvoir une culture de l’aménagement durable
 baseurl: ''
 url: http://hopdurable.fr
 markdown: kramdown
+
 cloudinary:
   cloud_name: hopdurable
 gems:
