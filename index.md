@@ -63,7 +63,7 @@ Nous :
 - **Construisons** un cadre propice à l’expérimentation pour accompagner le développement de solutions durables innovantes sur le territoire rhonalpin en animant une coopération d’acteurs engagés.  
 
 <p class="center">
-  <a href="00-notre-offre.html" class="button">La solution Hop</a> 
+  <a href="00-notre-offre.html" class="button">Découvrir notre offre</a> 
   <a href="01-nous-sommes.html" class="button">Qui sommes-nous ?</a>  
 
 </p>
