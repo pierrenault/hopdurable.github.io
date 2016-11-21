@@ -18,16 +18,17 @@ layout: default
 <section>
 <div class="section_content" markdown="1">
 
-## Constat
-L'absence d'une culture de l’aménagement durable partagée à l’échelle opérationnelle.  
+## Constat & besoin sociétal
+Notre constat : le manque d’une culture de l’aménagement durable partagée à l’échelle opérationnelle entre les acteurs, avec une offre et une demande mal identifiées et structurées. La cohérence et l’efficacité de la déclinaison des politiques publiques (énergie, biodiversité, etc.) depuis les échelles supra-communales jusqu’aux échelles opérationnelles en dépendent.  
 
-## Pourquoi ?
- - Manque d’exemples locaux de référence  
- - Faible valorisation du « caractère durable » des aménagements  
- - Approches innovantes perçues comme complexes (R&D)  
- - Multiplicité d’acteurs, de métiers & filières  
- - Nécessité de l’approche territoriale peu reconnue  
+## Comprendre : un défaut qui s'explique par
+ - un manque d’exemples locaux de référence, accessibles, de proximité  
+ - une faible valorisation du « caractère durable » des aménagements  
+ - des approches innovantes perçues comme complexes (R&D)  
+ - un manque de dialogue entre pluralité d’acteurs, de métiers & filières  
+ - une faible reconnaissance de la nécessité de l'approche territoriale, base de ce dialogue pour agir collectivement à des échelles différentes.  
  
+Ces pistes portent l’opportunité d’un nouveau regard sur l’aménagement du territoire, en ancrant le caractère durable au cœur d’une réponse de territoire opérationnelle où la démonstration et la coopération sont garants de l’appropriation collective pour une efficacité réelle et pérenne.
 </div>
 </section>
 
