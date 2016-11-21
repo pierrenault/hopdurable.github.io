@@ -47,7 +47,7 @@ L'absence d'une culture de l’aménagement durable partagée à l’échelle op
 <br>
 
 <p class="center">
-  <a href="00-notre-offre.html" class="button">Découvrir notre offre</a> 
+  <a href="00-notre-offre.html" class="button">la Solution Hop</a> 
   <a href="01-nous-sommes.html" class="button">Qui sommes-nous ?</a>  
 </p>
 </div>
