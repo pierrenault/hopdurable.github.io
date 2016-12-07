@@ -1,6 +1,7 @@
 ---
 title: Nous sommes
 layout: main
+group: navigation
 ---
 
 ## Association de préfiguration  
